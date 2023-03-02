@@ -1,4 +1,4 @@
-package predavanje01;
+package predavanje02;
 
 import java.util.Scanner;
 public class Statistika {

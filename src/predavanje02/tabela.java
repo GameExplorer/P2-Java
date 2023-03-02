@@ -1,4 +1,4 @@
-package predavanje01;
+package predavanje02;
 
 public class tabela {
     public static void main(String[] args) {

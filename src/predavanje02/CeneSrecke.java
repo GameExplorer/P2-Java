@@ -1,4 +1,4 @@
-package predavanje01;
+package predavanje02;
 
 public class CeneSrecke {
     public static void main(String[] args) {

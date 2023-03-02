@@ -1,4 +1,4 @@
-package predavanje01;
+package predavanje02;
 
 public class Nizi {
     public static void main(String[] args) {

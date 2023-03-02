@@ -5,14 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/predavanje01/CeneSrecke.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje01/JavaJeZakon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje01/Nizi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje01/Obresti.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje01/Statistika.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje01/tabela.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje03/Loto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje03/Ocene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje03/Racunalo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje03/Stetje.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje03/Uporabnik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje01/p01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje01/CeneSrecke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/CeneSrecke.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje01/JavaJeZakon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/JavaJeZakon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje01/Nizi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/Nizi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje01/Obresti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/Obresti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje01/Statistika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/Statistika.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje01/tabela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/tabela.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,26 +45,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "editing.templates",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.tabela">
-    <configuration name="CeneSrecke" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje01.CeneSrecke" />
+}</component>
+  <component name="RunManager" selected="Application.Ocene">
+    <configuration name="Loto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje03.Loto" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje01.*" />
+          <option name="PATTERN" value="predavanje03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +72,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="JavaJeZakon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje01.JavaJeZakon" />
+    <configuration name="Ocene" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje03.Ocene" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje01.*" />
+          <option name="PATTERN" value="predavanje03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +85,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Nizi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje01.Nizi" />
+    <configuration name="Racunalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje03.Racunalo" />
       <module name="javaPredavanja" />
+      <option name="PROGRAM_PARAMETERS" value="5.7 7.5" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje01.*" />
+          <option name="PATTERN" value="predavanje03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +99,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Statistika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje01.Statistika" />
+    <configuration name="Stetje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje03.Stetje" />
       <module name="javaPredavanja" />
+      <option name="PROGRAM_PARAMETERS" value="5 7" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje01.*" />
+          <option name="PATTERN" value="predavanje03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="tabela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje01.tabela" />
+    <configuration name="Uporabnik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje03.Uporabnik" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje01.*" />
+          <option name="PATTERN" value="predavanje03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,13 +126,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Loto" />
+      <item itemvalue="Application.Ocene" />
+      <item itemvalue="Application.Uporabnik" />
+      <item itemvalue="Application.Racunalo" />
+      <item itemvalue="Application.Stetje" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.tabela" />
-        <item itemvalue="Application.Statistika" />
-        <item itemvalue="Application.Nizi" />
-        <item itemvalue="Application.CeneSrecke" />
-        <item itemvalue="Application.JavaJeZakon" />
+        <item itemvalue="Application.Ocene" />
+        <item itemvalue="Application.Uporabnik" />
+        <item itemvalue="Application.Loto" />
+        <item itemvalue="Application.Racunalo" />
+        <item itemvalue="Application.Stetje" />
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +152,9 @@
       <option name="presentableId" value="Default" />
       <updated>1676490857922</updated>
       <workItem from="1676490859083" duration="860000" />
-      <workItem from="1677136960018" duration="7849000" />
+      <workItem from="1677136960018" duration="9223000" />
+      <workItem from="1677238189081" duration="52000" />
+      <workItem from="1677742098953" duration="7668000" />
     </task>
     <servers />
   </component>
