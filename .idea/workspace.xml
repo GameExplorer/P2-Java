@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/predavanje03/Loto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje03/Ocene.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje03/Racunalo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje03/Stetje.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje03/Uporabnik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje01/CeneSrecke.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/CeneSrecke.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje01/JavaJeZakon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/JavaJeZakon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje01/Nizi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/Nizi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje01/Obresti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/Obresti.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje01/Statistika.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/Statistika.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje01/tabela.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/tabela.java" afterDir="false" />
-    </list>
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +141,7 @@
       <workItem from="1676490859083" duration="860000" />
       <workItem from="1677136960018" duration="9223000" />
       <workItem from="1677238189081" duration="52000" />
-      <workItem from="1677742098953" duration="7668000" />
+      <workItem from="1677742098953" duration="7999000" />
     </task>
     <servers />
   </component>
