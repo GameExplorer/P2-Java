@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
+=======
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/predavanje01/Odstevanje.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+>>>>>>> 2242c4aa7dd76634d0fb8aa8eb128d5b7c3fe23e
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -45,7 +52,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Application.tabela">
+=======
+  <component name="RunManager" selected="Application.Odstevanje">
+>>>>>>> 2242c4aa7dd76634d0fb8aa8eb128d5b7c3fe23e
     <configuration name="Loto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje03.Loto" />
       <module name="javaPredavanja" />
@@ -72,12 +83,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Ocene" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje03.Ocene" />
+=======
+    <configuration name="Odstevanje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje01.Odstevanje" />
+>>>>>>> 2242c4aa7dd76634d0fb8aa8eb128d5b7c3fe23e
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje03.*" />
+          <option name="PATTERN" value="predavanje01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,9 +101,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Uporabnik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje03.Uporabnik" />
       <module name="javaPredavanja" />
+=======
+    <configuration name="Racunalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje03.Racunalo" />
+      <module name="javaPredavanja" />
+      <option name="PROGRAM_PARAMETERS" value="5.7 7.5" />
+>>>>>>> 2242c4aa7dd76634d0fb8aa8eb128d5b7c3fe23e
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="predavanje03.*" />
@@ -112,6 +135,7 @@
       </method>
     </configuration>
     <list>
+<<<<<<< HEAD
       <item itemvalue="Application.Nizi" />
       <item itemvalue="Application.tabela" />
       <item itemvalue="Application.Loto" />
@@ -125,6 +149,21 @@
         <item itemvalue="Application.Ocene" />
         <item itemvalue="Application.Uporabnik" />
         <item itemvalue="Application.Loto" />
+=======
+      <item itemvalue="Application.Odstevanje" />
+      <item itemvalue="Application.Loto" />
+      <item itemvalue="Application.Ocene" />
+      <item itemvalue="Application.Uporabnik" />
+      <item itemvalue="Application.Racunalo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Odstevanje" />
+        <item itemvalue="Application.Ocene" />
+        <item itemvalue="Application.Uporabnik" />
+        <item itemvalue="Application.Loto" />
+        <item itemvalue="Application.Racunalo" />
+>>>>>>> 2242c4aa7dd76634d0fb8aa8eb128d5b7c3fe23e
       </list>
     </recent_temporary>
   </component>
@@ -139,7 +178,8 @@
       <workItem from="1676490859083" duration="860000" />
       <workItem from="1677136960018" duration="9223000" />
       <workItem from="1677238189081" duration="52000" />
-      <workItem from="1677742098953" duration="7668000" />
+      <workItem from="1677742098953" duration="8598000" />
+      <workItem from="1677842606744" duration="1275000" />
     </task>
     <servers />
   </component>
