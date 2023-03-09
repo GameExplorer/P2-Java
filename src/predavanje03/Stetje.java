@@ -1,6 +1,5 @@
 package predavanje03;
 
-
 public class Stetje {
     private static void prestejPrveCrke(String[] besede) {
         int[] t = new int[26]; // v tabeli so same ničle
@@ -24,5 +23,4 @@ public class Stetje {
 
        prestejPrveCrke(besede);
     }
-
 }
