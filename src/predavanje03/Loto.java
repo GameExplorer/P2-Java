@@ -10,6 +10,5 @@ public class Loto {
             System.out.printf("%d ", nakljucnoSt);
         }
         System.out.println();
-
     }
 }
