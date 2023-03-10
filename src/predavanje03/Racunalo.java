@@ -2,7 +2,11 @@ package predavanje03;
 
 public class Racunalo {
     public static void main(String[] args) {
-        if(args.length != 2) System.out.println("Uporaba: java racunalo x y");
+        args = new String[]{"3","4"};
+        if(args.length != 2) {
+            System.out.println("Uporaba: java racunalo x y");
+            System.exit(1);
+        }
         else {
             double x = Double.parseDouble(args[0]);
             double y = Double.parseDouble(args[1]);
