@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+  <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -6,10 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-<<<<<<< Updated upstream
-      <change afterPath="$PROJECT_DIR$/src/predavanje01/Odstevanje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-=======
       <change afterPath="$PROJECT_DIR$/src/predavanje04/BitniOperator.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/predavanje04/CRCGEN.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/predavanje04/Ipp.java" afterDir="false" />
@@ -18,7 +14,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/predavanje04/veckratniki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje04/veckratniki.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/predavanje04/veckratniki.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje04/veckratniki.txt" afterDir="false" />
->>>>>>> Stashed changes
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,13 +55,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-<<<<<<< Updated upstream
-
-  <component name="RunManager" selected="Application.tabela">
-  <component name="RunManager" selected="Application.Odstevanje">
-    <configuration name="Loto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje03.Loto" />
-=======
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/predavanje04" />
@@ -75,7 +63,6 @@
   <component name="RunManager" selected="Application.MnozicaBitov">
     <configuration name="BitniOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje04.BitniOperator" />
->>>>>>> Stashed changes
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
@@ -87,13 +74,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< Updated upstream
-    <configuration name="Nizi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje02.Nizi" />
-=======
     <configuration name="Ipp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje04.Ipp" />
->>>>>>> Stashed changes
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
@@ -105,24 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< Updated upstream
-    <configuration name="Ocene" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje03.Ocene" />
-
-    <configuration name="Odstevanje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje01.Odstevanje" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje01.*" />
-=======
     <configuration name="IzpisSistemi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje04.IzpisSistemi" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="predavanje04.*" />
->>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,13 +100,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< Updated upstream
-    <configuration name="Uporabnik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje03.Uporabnik" />
-=======
     <configuration name="MnozicaBitov" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje04.MnozicaBitov" />
->>>>>>> Stashed changes
       <module name="javaPredavanja" />
     <configuration name="Racunalo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje03.Racunalo" />
@@ -152,21 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-<<<<<<< Updated upstream
-    <configuration name="tabela" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje02.tabela" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje02.*" />
-=======
     <configuration name="PrestejBite" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje04.PrestejBite" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="predavanje04.*" />
->>>>>>> Stashed changes
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,7 +131,6 @@
       </method>
     </configuration>
     <list>
-<<<<<<< HEAD
       <item itemvalue="Application.Nizi" />
       <item itemvalue="Application.tabela" />
       <item itemvalue="Application.Loto" />
@@ -198,19 +153,11 @@
     </list>
     <recent_temporary>
       <list>
-<<<<<<< Updated upstream
-        <item itemvalue="Application.Odstevanje" />
-        <item itemvalue="Application.Ocene" />
-        <item itemvalue="Application.Uporabnik" />
-        <item itemvalue="Application.Loto" />
-        <item itemvalue="Application.Racunalo" />
-=======
         <item itemvalue="Application.MnozicaBitov" />
         <item itemvalue="Application.Ipp" />
         <item itemvalue="Application.BitniOperator" />
         <item itemvalue="Application.IzpisSistemi" />
         <item itemvalue="Application.PrestejBite" />
->>>>>>> Stashed changes
       </list>
     </recent_temporary>
   </component>
@@ -221,18 +168,9 @@
       <created>1676490857922</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-<<<<<<< Updated upstream
-      <updated>1676490857922</updated>
-      <workItem from="1676490859083" duration="860000" />
-      <workItem from="1677136960018" duration="9223000" />
-      <workItem from="1677238189081" duration="52000" />
-      <workItem from="1677742098953" duration="8598000" />
-      <workItem from="1677842606744" duration="1275000" />
-=======
       <updated>1678344679550</updated>
       <workItem from="1678344680841" duration="10201000" />
       <workItem from="1678393083433" duration="15010000" />
->>>>>>> Stashed changes
     </task>
     <servers />
   </component>
