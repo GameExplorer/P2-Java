@@ -6,7 +6,7 @@ public class StringBuffer {
         String a = "prva.druga.tretja";
         String[] deli = a.split(".");
 
-        for (int i = , I < deli.length; i++) {
+        for (int i = 1: i < deli.length; i++) {
             System.out.println(deli[i]);
         }
     }
