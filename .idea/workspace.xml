@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje05/BuffervBuildervString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje05/Regex.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje05/Sah.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje05/StringBuffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje05/TwoDTabele.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/TwoDTabele.java" afterDir="false" />
-    </list>
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -148,7 +140,7 @@
       <workItem from="1678344680841" duration="10201000" />
       <workItem from="1678393083433" duration="15010000" />
       <workItem from="1678963134233" duration="147000" />
-      <workItem from="1679000359290" duration="1781000" />
+      <workItem from="1679000359290" duration="2195000" />
     </task>
     <servers />
   </component>
