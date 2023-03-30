@@ -35,6 +35,11 @@ public class Kodiranje {
 
         BeriPisi.zapisiVDatoteko(izhod, vsebina);
     }
+
+    /**
+     * @param args
+     * @throws Exception
+     */
     public static void main(String[] args) throws Exception {
         // ce imam argumente, jih preberem in klicem deKodiranje()
         String vsebina = BeriPisi.preberiDatoteko("src/Predavanje06/kodiranje/io/veckratniki.txt");

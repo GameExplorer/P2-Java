@@ -5,12 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/predavanje05/Boxing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje05/Tabela.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje05/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/stdlib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Tarca.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lib/stdlib.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje07/RazredFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje07/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_codec_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/commons_codec_1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje05/BuffervBuildervString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/BuffervBuildervString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje05/Regex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/Regex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javaPredavanja.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaPredavanja.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Predavanje06/kodiranje/kodiranje/Kodiranje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanje06/kodiranje/kodiranje/Kodiranje.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,27 +37,31 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Lmz4n7I2J5sDjrgeXTEroa27rm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/melioads/IdeaProjects/javaPredavanja/src/predavanje05/si/fri/kodiranje/io",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/melioads/IdeaProjects/javaPredavanja/src/lib/stdlib.jar",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Artifacts",
+    "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "configurable.group.editor",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -66,13 +73,13 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Users">
-    <configuration name="Boxing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje05.Boxing" />
+  <component name="RunManager" selected="Application.Tarca">
+    <configuration name="RazredFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje07.RazredFile" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje05.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,28 +87,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BuffervBuildervString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje05.BuffervBuildervString" />
+    <configuration name="Tarca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Tarca" />
       <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Regex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje05.Regex" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -132,20 +120,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="stdlib.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/lib/stdlib.jar" />
+      <method v="2" />
+    </configuration>
     <list>
-      <item itemvalue="Application.Boxing" />
-      <item itemvalue="Application.Regex" />
+      <item itemvalue="Application.RazredFile" />
+      <item itemvalue="Application.Tarca" />
       <item itemvalue="Application.Users" />
-      <item itemvalue="Application.BuffervBuildervString" />
       <item itemvalue="Application.TwoDTabele" />
+      <item itemvalue="JAR Application.stdlib.jar" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Tarca" />
+        <item itemvalue="JAR Application.stdlib.jar" />
+        <item itemvalue="Application.RazredFile" />
         <item itemvalue="Application.Users" />
         <item itemvalue="Application.TwoDTabele" />
-        <item itemvalue="Application.BuffervBuildervString" />
-        <item itemvalue="Application.Regex" />
-        <item itemvalue="Application.Boxing" />
       </list>
     </recent_temporary>
   </component>
@@ -165,12 +157,18 @@
       <workItem from="1679553549931" duration="747000" />
       <workItem from="1679556756149" duration="8770000" />
       <workItem from="1679603874744" duration="599000" />
-      <workItem from="1679685860914" duration="6211000" />
+      <workItem from="1679685860914" duration="8271000" />
+      <workItem from="1680156931428" duration="698000" />
+      <workItem from="1680157760376" duration="24000" />
+      <workItem from="1680157796323" duration="8635000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

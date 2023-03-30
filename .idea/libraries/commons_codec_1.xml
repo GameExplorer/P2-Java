@@ -2,12 +2,14 @@
   <library name="commons-codec-1">
     <CLASSES>
       <root url="file://$PROJECT_DIR$/src/lib/commons-codec-1.15" />
+      <root url="jar://$USER_HOME$/Downloads/stdlib.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="file://$PROJECT_DIR$/src/lib/commons-codec-1.15/apidocs" />
     </JAVADOC>
     <SOURCES>
       <root url="file://$PROJECT_DIR$/src/lib/commons-codec-1.15" />
+      <root url="jar://$USER_HOME$/Downloads/stdlib.jar!/" />
     </SOURCES>
     <jarDirectory url="file://$PROJECT_DIR$/src/lib/commons-codec-1.15" recursive="false" />
     <jarDirectory url="file://$PROJECT_DIR$/src/lib/commons-codec-1.15" recursive="false" type="SOURCES" />
