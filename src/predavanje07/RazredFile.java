@@ -4,7 +4,7 @@ import java.io.File;
 
 public class RazredFile {
     public static void main(String[] args) {
-        File f = new File("test.txt");
+        File f = new File("veckratniki.txt");
 
         File f2 = new File("dist");
 
@@ -13,10 +13,6 @@ public class RazredFile {
         System.out.println(f.isFile());
         System.out.println(f.isDirectory());
         System.out.println(f2.isDirectory());
-        
-
-       
-
 
     }
 }
