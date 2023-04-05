@@ -95,9 +95,9 @@ public class Tarca {
     }
     public static void main(String[] args) {
         //tarca();
-        //kvadrati();S
+        kvadrati();
         //kvadratnaSpirala();
         //spirala();
-        radar();
+        //radar();
     }
 }

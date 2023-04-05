@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tarca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tarca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +69,7 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RazredFile">
+  <component name="RunManager" selected="Application.Tarca">
     <configuration name="RazredFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje07.RazredFile" />
       <module name="javaPredavanja" />
@@ -128,8 +129,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RazredFile" />
         <item itemvalue="Application.Tarca" />
+        <item itemvalue="Application.RazredFile" />
         <item itemvalue="JAR Application.stdlib.jar" />
         <item itemvalue="Application.Users" />
         <item itemvalue="Application.TwoDTabele" />
@@ -158,6 +159,7 @@
       <workItem from="1680157796323" duration="9212000" />
       <workItem from="1680276015358" duration="3163000" />
       <workItem from="1680373546876" duration="2400000" />
+      <workItem from="1680508508782" duration="1120000" />
     </task>
     <servers />
   </component>
