@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Predavanje08/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Predavanje08/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanje08/Studenti.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +72,7 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Student">
+  <component name="RunManager" selected="Application.Studenti">
     <configuration name="Student (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Predavanje08.Student" />
       <module name="javaPredavanja" />
@@ -99,7 +99,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Student (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Predavanje08.Student" />
       <module name="javaPredavanja" />
       <extension name="coverage">
@@ -125,27 +125,59 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tarca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tarca" />
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Predavanje08.Student" />
       <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Predavanje08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Predavanje08.Student" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Predavanje08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Studenti" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Predavanje08.Studenti" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Predavanje08.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Studenti" />
       <item itemvalue="Application.Student" />
       <item itemvalue="Application.Student (1)" />
       <item itemvalue="Application.Student (2)" />
       <item itemvalue="Application.Student (3)" />
-      <item itemvalue="Application.Tarca" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Studenti" />
         <item itemvalue="Application.Student" />
         <item itemvalue="Application.Student (1)" />
         <item itemvalue="Application.Student (3)" />
         <item itemvalue="Application.Student (2)" />
-        <item itemvalue="Application.Tarca" />
       </list>
     </recent_temporary>
   </component>
@@ -172,27 +204,28 @@
       <workItem from="1680276015358" duration="3163000" />
       <workItem from="1680373546876" duration="2400000" />
       <workItem from="1680508508782" duration="1120000" />
-      <workItem from="1680716930453" duration="9136000" />
+      <workItem from="1680716930453" duration="10397000" />
+      <workItem from="1680808841091" duration="341000" />
+      <workItem from="1680869042623" duration="6735000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-field">
-          <url>file://$PROJECT_DIR$/src/Predavanje08/Student.java</url>
-          <line>11</line>
-          <properties field="ocene" class="Predavanje08.student" />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
