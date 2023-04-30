@@ -5,7 +5,7 @@ package predavanje09;
  * ustreza realni funkciji sinus
  */
 class Sinus extends Funkcija {
-    double vrednost(double x) {
+    public double vrednost(double x) {
         return Math.sin(x);
     }
     double odvod(double x) {

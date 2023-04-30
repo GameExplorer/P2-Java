@@ -9,5 +9,6 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="commons-codec-1" level="project" />
     <orderEntry type="library" exported="" name="stdlib" level="project" />
+    <orderEntry type="library" exported="" name="algs4" level="project" />
   </component>
 </module>
