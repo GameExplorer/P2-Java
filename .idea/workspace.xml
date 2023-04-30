@@ -4,24 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/algs4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lib/algs4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje10/Funkcija.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje10/Krog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje10/Kvadrat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje10/Lik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje10/Mnozice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje10/Newton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje10/Paint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje10/Pravokotnik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje10/TestNewton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/javaPredavanja.iml" beforeDir="false" afterPath="$PROJECT_DIR$/javaPredavanja.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje09/Funkcija.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje09/Funkcija.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje09/TestNewton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje09/TestNewton.java" afterDir="false" />
-    </list>
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -235,7 +218,7 @@
       <workItem from="1682773261443" duration="296000" />
       <workItem from="1682793748862" duration="96000" />
       <workItem from="1682796374427" duration="73000" />
-      <workItem from="1682797915794" duration="7305000" />
+      <workItem from="1682797915794" duration="7961000" />
     </task>
     <servers />
   </component>
