@@ -7,6 +7,6 @@ package predavanje10;
  * mora omenjeni metodi dejansko implementirati
  */
 public interface Funkcija {
-    public double vrednost(double x);
-    public double odvod(double x);
+    double vrednost(double x);
+    double odvod(double x);
 }
