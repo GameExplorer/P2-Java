@@ -1,13 +1,13 @@
-package predavanje10;
+package predavanje11;
 
-import java.util.HashMap;
+import java.util.*;
 
 public class Meseci {
     public static void main(String[] args) {
 
-        //SLovar mesecev, kljuc je ime meseca, vrednost pa št. dni
-
-        HashMap<String, Integer> meseci = new HashMap<>();
+        //SLovar mesecev, kljuc je ime meseca, vrednost pa št. dni. Lahko uporabimo HashMap ali pa TreeMap. TreeMap jih
+        // uredi po avecednem vrstnem redu
+        TreeMap<String, Integer> meseci = new TreeMap<>();
 
         meseci.put("Januar", 31);
         meseci.put("Februar", 28);
@@ -31,6 +31,11 @@ public class Meseci {
         System.out.println();
         for(String mesec : meseci.keySet()) { //sprehod po meseci
             System.out.println(mesec + "-" + meseci.get(mesec)); //izpis imena meseca in št. dni ... get vrne vrednost
+        }
+
+        System.out.println();
+        for (Integer d : meseci.values()) {
+            System.out.println(d);
         }
     }
 }

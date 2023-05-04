@@ -1,11 +1,18 @@
-package predavanje10;
+package predavanje11;
 
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.Set;
+import java.util.TreeSet;
 
+
+/**
+ * TUkaj smo uprabili ArrayList in TreeSet
+ */
 public class Deljitelji {
-    public static ArrayList<Integer> seznamDeljiteljev(int n) {
-        ArrayList<Integer> delitelji = new ArrayList<Integer>();
+    public static /*ArrayList<Integer>*/ Set<Integer> seznamDeljiteljev(int n) {
+        //ArrayList<Integer> delitelji = new ArrayList<Integer>();
+        Set<Integer> delitelji = new TreeSet<>();
 
         //Sprehod čez vse možne kandidate
 
@@ -16,10 +23,11 @@ public class Deljitelji {
         return delitelji;
     }
     public static void main(String[] args) {
-        int n = 200;
+        int n = 7; int b;
 
         // pridobim seznam deljiteljev števila n
-        ArrayList<Integer> delitelji = seznamDeljiteljev(n);
+        //ArrayList<Integer> delitelji = seznamDeljiteljev(n);
+        Set<Integer> delitelji = seznamDeljiteljev(n);
 
         // in jih izpišem sprehod po int
         Iterator<Integer> it = delitelji.iterator();
