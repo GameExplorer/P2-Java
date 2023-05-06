@@ -12,14 +12,22 @@ public class SeznamImen {
         imena.add("Žiga");
         imena.add("Zala");
 
+        //klasična for zanka
+        for(int i = 0; i < imena.size(); i++) {
+            System.out.println(imena.get(i));
+        }
+
+        imena.remove("Vida"); // ne moremo odstraniti elemnta, ki ga ni
+
+        //for each zanka
         for(String ime : imena) {
             System.out.println(ime);
         }
 
         System.out.println();
-        System.out.println(imena.contains("Ana"));
-        System.out.println(imena.contains("Anica"));
+        System.out.println(imena.contains("Ana")); //vrne true, ker je v zbirki
+        System.out.println(imena.contains("Anica")); //vne false, ker ni v zbirki
 
-        System.out.println(imena.remove("Zala"));
+        System.out.println(imena.remove("Zala")); //vrne true, ker je v zbirki in ga lahko odstrani
     }
 }

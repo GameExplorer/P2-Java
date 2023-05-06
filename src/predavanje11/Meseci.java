@@ -5,7 +5,7 @@ import java.util.*;
 public class Meseci {
     public static void main(String[] args) {
 
-        //SLovar mesecev, kljuc je ime meseca, vrednost pa št. dni. Lahko uporabimo HashMap ali pa TreeMap. TreeMap jih
+        //Slovar mesecev, kljuc je ime meseca, vrednost pa št. dni. Lahko uporabimo HashMap ali pa TreeMap. TreeMap jih
         // uredi po avecednem vrstnem redu
         TreeMap<String, Integer> meseci = new TreeMap<>();
 
@@ -24,16 +24,18 @@ public class Meseci {
 
         System.out.println(meseci.values()); //izpis št. dni za vsak mesec
         System.out.println(meseci.keySet()); //izpiše ključe -> mesece
+        System.out.println(meseci.get("Maj")); //izpis št. dni za maj
 
         System.out.println("Januar je mesec v letu: " + meseci.containsKey("Januar")); //true
         System.out.println("Napoleon je mesec v letu: " + meseci.containsKey("Napoelon")); //false
 
         System.out.println();
+        //izpis vseh parov
         for(String mesec : meseci.keySet()) { //sprehod po meseci
             System.out.println(mesec + "-" + meseci.get(mesec)); //izpis imena meseca in št. dni ... get vrne vrednost
         }
 
-        System.out.println();
+        System.out.println(); //izpis št. dni za posamezen mesec
         for (Integer d : meseci.values()) {
             System.out.println(d);
         }
