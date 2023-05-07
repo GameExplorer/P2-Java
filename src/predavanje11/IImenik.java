@@ -7,7 +7,7 @@ import java.util.Comparator;
 /**
  * Če želim elemente razreda Oseba med seboj primerjati po dodatnem kriteriju
  * torej ne po tistem v Oseba (compare to)
- * lahko utvarim nov razred-Primerjalnik, ta razred implementirati
+ * lahko utvarim nov razred-Primerjalnik, ta razred implementira
  * vmesnik Comparator in metodo compare()
  */
 class MojPrimerjalnik implements Comparator<Oseba> {
@@ -34,11 +34,13 @@ public class IImenik{
         osebe.add(new Oseba("Vesna", 21));
         osebe.add(new Oseba("Maja", 21));
         osebe.add(new Oseba("Petra", 25));
+        osebe.add(new Oseba("Anastasija", 25));
 
         //izpis neurejenih oseb (tako kot smo jih dodali)
         System.out.println(osebe);
 
-        // urejanje s privzetim primerjalnikom (metoda compareTo razreda Oseba
+        // urejanje s privzetim primerjalnikom (metoda compareTo razreda Oseba.. primerja starosti in če so enake
+        // izpiše prvo, ki je napisana
         Collections.sort(osebe);
         System.out.println(osebe);
 

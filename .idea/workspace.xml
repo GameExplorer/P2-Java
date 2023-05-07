@@ -6,12 +6,9 @@
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje11/Deljitelji.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/Delitelji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje11/Fis/Drzava.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/Fis/Drzava.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje11/Fis/Drzave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/Fis/Drzave.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/predavanje11/IImenik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/IImenik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje11/Meseci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/Meseci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje11/Mnozice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/Mnozice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje11/Oseba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/Oseba.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje11/SeznamImen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/SeznamImen.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,13 +77,26 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.IImenik (1)">
+  <component name="RunManager" selected="Application.Drzave">
     <configuration name="Delitelji" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje11.Delitelji" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="predavanje11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Drzave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje11.Fis.Drzave" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predavanje11.Fis.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,19 +130,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Mnozice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje11.Mnozice" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="SeznamImen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje11.SeznamImen" />
       <module name="javaPredavanja" />
@@ -149,17 +146,17 @@
     <list>
       <item itemvalue="Application.Delitelji" />
       <item itemvalue="Application.IImenik (1)" />
-      <item itemvalue="Application.Mnozice" />
       <item itemvalue="Application.SeznamImen" />
+      <item itemvalue="Application.Drzave" />
       <item itemvalue="Application.Meseci" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Drzave" />
         <item itemvalue="Application.IImenik (1)" />
         <item itemvalue="Application.Meseci" />
         <item itemvalue="Application.Delitelji" />
         <item itemvalue="Application.SeznamImen" />
-        <item itemvalue="Application.Mnozice" />
       </list>
     </recent_temporary>
   </component>
@@ -206,7 +203,7 @@
       <workItem from="1683038696551" duration="20000" />
       <workItem from="1683179612630" duration="669000" />
       <workItem from="1683181990045" duration="8594000" />
-      <workItem from="1683227456082" duration="8471000" />
+      <workItem from="1683227456082" duration="13768000" />
     </task>
     <servers />
   </component>
