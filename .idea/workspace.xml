@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/DeljenjeZNic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/Finally.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/HexDump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/Imenik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/Izjeme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/Izjeme2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/Oseba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/TestDeljenja.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/TryWithResources.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/b.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje12/medo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje11/IImenik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/IImenik.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje11/SeznamImen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/SeznamImen.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,17 +83,19 @@
       <recent name="$PROJECT_DIR$/src/predavanje05/si/fri/kodiranje/io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/predavanje12" />
       <recent name="$PROJECT_DIR$/src/predavanje10/Fis" />
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Drzave">
-    <configuration name="Delitelji" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje11.Delitelji" />
+  <component name="RunManager" selected="Application.HexDump">
+    <configuration name="Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje12.Finally" />
       <module name="javaPredavanja" />
+      <option name="PROGRAM_PARAMETERS" value="D" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje11.*" />
+          <option name="PATTERN" value="predavanje12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +103,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Drzave" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje11.Fis.Drzave" />
+    <configuration name="HexDump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje12.HexDump" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje11.Fis.*" />
+          <option name="PATTERN" value="predavanje12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +116,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IImenik (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje11.IImenik" />
+    <configuration name="Imenik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje12.Imenik" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje11.*" />
+          <option name="PATTERN" value="predavanje12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +129,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Meseci" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje11.Meseci" />
+    <configuration name="TestDeljenja" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje12.TestDeljenja" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje11.*" />
+          <option name="PATTERN" value="predavanje12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +142,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SeznamImen" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje11.SeznamImen" />
+    <configuration name="TryWithResources" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje12.TryWithResources" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje11.*" />
+          <option name="PATTERN" value="predavanje12.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +156,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Delitelji" />
-      <item itemvalue="Application.IImenik (1)" />
-      <item itemvalue="Application.SeznamImen" />
-      <item itemvalue="Application.Drzave" />
-      <item itemvalue="Application.Meseci" />
+      <item itemvalue="Application.Finally" />
+      <item itemvalue="Application.HexDump" />
+      <item itemvalue="Application.Imenik" />
+      <item itemvalue="Application.TestDeljenja" />
+      <item itemvalue="Application.TryWithResources" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Drzave" />
-        <item itemvalue="Application.IImenik (1)" />
-        <item itemvalue="Application.Meseci" />
-        <item itemvalue="Application.Delitelji" />
-        <item itemvalue="Application.SeznamImen" />
+        <item itemvalue="Application.HexDump" />
+        <item itemvalue="Application.Imenik" />
+        <item itemvalue="Application.TryWithResources" />
+        <item itemvalue="Application.TestDeljenja" />
+        <item itemvalue="Application.Finally" />
       </list>
     </recent_temporary>
   </component>
@@ -199,6 +216,8 @@
       <workItem from="1683179612630" duration="669000" />
       <workItem from="1683181990045" duration="8594000" />
       <workItem from="1683227456082" duration="14001000" />
+      <workItem from="1683785481138" duration="10125000" />
+      <workItem from="1683876284419" duration="7640000" />
     </task>
     <servers />
   </component>

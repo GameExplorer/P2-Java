@@ -35,6 +35,7 @@ public class IImenik{
         osebe.add(new Oseba("Maja", 21));
         osebe.add(new Oseba("Petra", 25));
         osebe.add(new Oseba("Anastasija", 25));
+        osebe.add(new Oseba("Elizabeta", 18));
 
         //izpis neurejenih oseb (tako kot smo jih dodali)
         System.out.println(osebe);
@@ -47,5 +48,16 @@ public class IImenik{
         //urejanje z dodatnik primerjalnikom (razred MojPrimerjalnik, metoda compare)
         osebe.sort(new MojPrimerjalnik());
         System.out.println(osebe);
+
+        //Po anonimnem razredu
+        Collections.sort(osebe, new Comparator<Oseba>() {
+            public int compare(Oseba o1, Oseba o2) {
+                return Double.compare(o1.starost, o2.starost);
+            }
+        });
+        System.out.println(osebe);
+
+        // lambda
+        //Collections.sort(osebe, (o1, o2) =>  {return Double.compare(o1.starost, o2.starost)});
     }
 }
