@@ -4,22 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/DeljenjeZNic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/Finally.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/HexDump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/Imenik.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/Izjeme.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/Izjeme2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/Oseba.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/TestDeljenja.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/TryWithResources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/b.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje12/medo.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje11/IImenik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/IImenik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje11/SeznamImen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje11/SeznamImen.java" afterDir="false" />
-    </list>
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -217,7 +202,7 @@
       <workItem from="1683181990045" duration="8594000" />
       <workItem from="1683227456082" duration="14001000" />
       <workItem from="1683785481138" duration="10125000" />
-      <workItem from="1683876284419" duration="7640000" />
+      <workItem from="1683876284419" duration="8063000" />
     </task>
     <servers />
   </component>
