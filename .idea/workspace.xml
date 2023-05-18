@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/predavanje13/ClassDump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje13/Copy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje13/VelikostSlike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje13/drzave.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje13/kopiranaDat.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje13/Imenik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje13/Internet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje13/Oseba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje13/Pretvornik.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje13/abc.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje13/abcx.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje13/imenik.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tarca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tarca.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/predavanje12/HexDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje12/HexDump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje12/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje12/b.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,33 +84,7 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.VelikostSlike">
-    <configuration name="ClassDump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje13.ClassDump" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje13.Copy" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje13.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Internet">
     <configuration name="HexDump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje12.HexDump" />
       <module name="javaPredavanja" />
@@ -124,12 +98,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Imenik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje12.Imenik" />
+    <configuration name="Internet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje13.Internet" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje12.*" />
+          <option name="PATTERN" value="predavanje13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pretvornik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje13.Pretvornik" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predavanje13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,20 +137,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="predavanje13.Imenik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje13.Imenik" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predavanje13.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.ClassDump" />
-      <item itemvalue="Application.Copy" />
+      <item itemvalue="Application.Internet" />
+      <item itemvalue="Application.Pretvornik" />
       <item itemvalue="Application.VelikostSlike" />
+      <item itemvalue="Application.predavanje13.Imenik" />
       <item itemvalue="Application.HexDump" />
-      <item itemvalue="Application.Imenik" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.VelikostSlike" />
-        <item itemvalue="Application.ClassDump" />
-        <item itemvalue="Application.Copy" />
+        <item itemvalue="Application.Internet" />
+        <item itemvalue="Application.Pretvornik" />
         <item itemvalue="Application.HexDump" />
-        <item itemvalue="Application.Imenik" />
+        <item itemvalue="Application.predavanje13.Imenik" />
+        <item itemvalue="Application.VelikostSlike" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +219,7 @@
       <workItem from="1683992656191" duration="937000" />
       <workItem from="1683999298509" duration="362000" />
       <workItem from="1684340889518" duration="230000" />
-      <workItem from="1684391880265" duration="4093000" />
+      <workItem from="1684391880265" duration="8889000" />
     </task>
     <servers />
   </component>
