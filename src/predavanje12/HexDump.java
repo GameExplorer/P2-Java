@@ -7,23 +7,26 @@ public class HexDump {
     public static void main(String[] args) {
         try {
             //odprem binarno datoteko
-            FileInputStream fis = new FileInputStream(new File("src/predavanje12/medo.png"));
+            FileInputStream fis = new FileInputStream("src/predavanje12/medo.png");
             int s = 0;
+            String znaki = "";
             //dokler ima datoteka vsebino...
             while(fis.available() > 0) {
                 //berem znak po znaku
                 int z = fis.read();
                 s++;
+                znaki += (32 <= z && z <= 127) ? (char) z : ".";
                 System.out.printf("%02X ", z);
 
                 if(s % 8 == 0) System.out.print("  ");
-                if(s % 16 == 0) System.out.println();
+                if(s % 16 == 0) System.out.println("     |" + znaki + "|");
+                znaki="";
             }
             //na koncu obvezno zaprem datoteko
             fis.close();
         }
         catch (Exception e) {
-            System.out.println("Napaka : " + e.toString());
+            System.out.println("Napaka : " + e);
         }
 
     }
