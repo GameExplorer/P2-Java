@@ -7,10 +7,9 @@ public class ClassDump {
 
     public static void main(String[] args) {
         String ime = "out/production/javaPredavanja/predavanje10/Newton.class";
-        try {
-            FileInputStream fis = new FileInputStream(ime);
-            DataInputStream dis = new DataInputStream(fis);
-
+        try (FileInputStream fis = new FileInputStream(ime);
+             DataInputStream dis = new DataInputStream(fis);)
+        {
             byte[] magic = new byte[4];
             dis.read(magic);
 
@@ -19,8 +18,8 @@ public class ClassDump {
             }
             short minor = dis.readShort();
             short major = dis.readShort();
-
-        }catch (Exception e) {
+        }
+        catch (Exception e) {
             System.out.println(e);
         }
 

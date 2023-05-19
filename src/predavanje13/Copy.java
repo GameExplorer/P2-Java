@@ -2,7 +2,19 @@ package predavanje13;
 
 import java.io.*;
 
+/**
+ * Trije načini kopiranja.
+ * bajt-po-bajtu (metoda kopiraj()),
+ * blok-po-bloku (metodaKopirajHitreje)
+ * in blok-po-bloku z dodanim bufferejm (metodaKopirajNajHitreje)
+ */
 public class Copy {
+    /**
+     * Metoda prekopira prvo datoteko v drugo, če pride do napake vrne false sicer true
+     * @param input
+     * @param output
+     * @return
+     */
     public static boolean kopiraj(String input, String output) {
         try {
             FileInputStream fis = new FileInputStream(input);
@@ -13,6 +25,7 @@ public class Copy {
                 fos.write(z);
             }
 
+            //obvezno zapremo!!
             fis.close();
             fos.close();
             return true;
@@ -29,8 +42,9 @@ public class Copy {
 
             byte[] buffer = new byte[4096];
             while(fis.available() > 0) {
+                //preberem blok podatkov
                 int n = fis.read(buffer); //prebere tabelo in vrne št prebranih bajtov
-                fos.write(buffer, 0, n);
+                fos.write(buffer, 0, n); //zapišem natančno toliko podatkov, kot sem jih prebral
             }
 
             fis.close();
@@ -46,9 +60,11 @@ public class Copy {
     public static boolean kopirajNajHitreje(String input, String output) {
         try {
             FileInputStream fis = new FileInputStream(input);
+            // dodam še BufferedInputStream, da dodatno pospešim branje
             BufferedInputStream bis = new BufferedInputStream(fis);
 
             FileOutputStream fos = new FileOutputStream(output);
+            // dodam še BUfferedOutputStream da dodatno pospešim pisanje
             BufferedOutputStream bos = new BufferedOutputStream(fos);
 
             byte[] buffer = new byte[4096];

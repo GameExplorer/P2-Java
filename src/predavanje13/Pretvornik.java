@@ -5,6 +5,9 @@ import java.io.FileOutputStream;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
+/**
+ * Pretvornik iz enega v drug kodirnik
+ */
 public class Pretvornik {
     public static void main(String[] args) {
         String inputCharset = "UTF-8";
@@ -14,13 +17,13 @@ public class Pretvornik {
 
         String imeIzhodne = "src/predavanje13/abcx.txt";
 
-        try {
+        try (
             FileInputStream fis = new FileInputStream(imeDatoteke);
             InputStreamReader isr = new InputStreamReader(fis, inputCharset);
 
             FileOutputStream fos = new FileOutputStream(imeIzhodne);
-            OutputStreamWriter osw = new OutputStreamWriter(fos, outputCharset);
-
+            OutputStreamWriter osw = new OutputStreamWriter(fos, outputCharset);)
+        {
             while(isr.ready()) {
                 int znak = isr.read();
                 osw.write(znak);

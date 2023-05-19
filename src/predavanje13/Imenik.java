@@ -4,11 +4,10 @@ import java.io.*;
 
 public class Imenik {
     public static void main(String[] args) throws IOException {
-        preberi();
         preberiObjekte();
     }
 
-    public static void preberi() {
+    public static void zapisiObjekte() {
         Oseba A = new Oseba("A", 21);
         Oseba B = new Oseba("B", 21);
         Oseba C = new Oseba("AC", 22);
@@ -30,12 +29,16 @@ public class Imenik {
             System.out.println(e);
         }
     }
+    //branje objektov iz datoteke
     public static void preberiObjekte() {
-        try (FileInputStream fis = new FileInputStream("src/predavanje13/imenik.bin"); ObjectInputStream ois = new ObjectInputStream(fis)) {
+        try (FileInputStream fis = new FileInputStream("src/predavanje13/imenik.bin");
+             ObjectInputStream ois = new ObjectInputStream(fis))
+        {
             Oseba a = (Oseba) ois.readObject(); //prvi objekt
             Object b = ois.readObject(); //drugi objekt
+            Object c = ois.readObject(); //tretji objekt
 
-            System.out.println(b.toString());
+            System.out.println(c.toString());
 
         } catch (Exception e) {
             System.out.println(e);
