@@ -1,7 +1,7 @@
-package Predavanje06.kodiranje.kodiranje;
+package predavanje06.kodiranje;
 
-import Predavanje06.kodiranje.io.BeriPisi;
-import Predavanje06.kodiranje.main.gui.KodiranjeOkno;
+import predavanje06.io.BeriPisi;
+import predavanje06.main.gui.KodiranjeOkno;
 
 public class Kodiranje {
 

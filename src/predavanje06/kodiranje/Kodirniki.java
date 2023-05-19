@@ -1,4 +1,4 @@
-package Predavanje06.kodiranje.kodiranje;
+package predavanje06.kodiranje;
 
 import org.apache.commons.codec.binary.Base64;
 

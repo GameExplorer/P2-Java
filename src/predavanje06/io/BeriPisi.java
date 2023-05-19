@@ -1,4 +1,4 @@
-package Predavanje06.kodiranje.io;
+package predavanje06.io;
 
 import java.io.File;
 import java.io.FileNotFoundException;

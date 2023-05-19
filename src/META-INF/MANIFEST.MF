@@ -1,3 +1,3 @@
 Manifest-Version: 1.0
-Main-Class: Predavanje06.kodiranje.kodiranje.Kodiranje
+Main-Class: predavanje06.kodiranje.Kodiranje
 
