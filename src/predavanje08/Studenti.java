@@ -1,4 +1,4 @@
-package Predavanje08;
+package predavanje08;
 
 import java.util.Scanner;
 
