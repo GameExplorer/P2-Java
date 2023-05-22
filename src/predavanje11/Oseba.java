@@ -12,7 +12,6 @@ public class Oseba implements Comparable<Oseba> {
 
     String ime;
     int starost;
-
     public Oseba(String ime, int starost) {
         this.ime = ime;
         this.starost = starost;

@@ -50,5 +50,4 @@ public class Mnozice {
         System.out.println(dnevi); //prazna zbirka
 
     }
-
 }
