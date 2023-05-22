@@ -15,4 +15,3 @@ public class Nizi {
         System.out.println("Zamenjaj vse: " + niz.replaceAll("a", "i"));
     }
 }
-
