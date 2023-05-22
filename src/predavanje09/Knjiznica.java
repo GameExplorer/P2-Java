@@ -89,8 +89,6 @@ public class Knjiznica {
         System.out.println(l1);
 
         //Kniga k = new Knjiga("","",""); //ker sem naredil abstract sem preprečil novo instanco Knjige
-
-
     }
     public static void main(String[] args) {
             //test1();
