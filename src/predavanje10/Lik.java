@@ -7,7 +7,6 @@ abstract public class Lik {
     private double x;
     private double y;
     private Color barva;
-
     private boolean oznacen;
 
     public Lik(double x, double y, Color barva) {

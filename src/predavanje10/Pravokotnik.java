@@ -32,7 +32,6 @@ public class Pravokotnik extends Lik {
         StdDraw.setPenColor(getBarva());
         StdDraw.filledRectangle(getX(), getY(), a, b);
     }
-
     void povecajSe(double f) {
         this.a *= f;
         this.b *= f;
