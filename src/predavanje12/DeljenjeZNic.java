@@ -8,6 +8,4 @@ public class DeljenjeZNic extends RuntimeException {
     public String getMessage() {
         return "Deljenje z 0";
     }
-
-
 }
