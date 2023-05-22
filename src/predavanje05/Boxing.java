@@ -12,7 +12,6 @@ public class Boxing {
         ojbketov tipa Integer). Java bo poskrbela za "boxing", to
         je za "pretvorbo" iz int v Integer
          */
-
         a = 5;
         System.out.println(a);
     }
