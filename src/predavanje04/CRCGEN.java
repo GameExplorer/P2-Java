@@ -5,7 +5,6 @@ import java.io.PrintWriter;
 import java.util.Scanner;
 
 public class CRCGEN {
-
     static int MAX_VSOTA = 1024; //računamo po modulu 1024
 
     public static void main(String[] args) throws Exception {
