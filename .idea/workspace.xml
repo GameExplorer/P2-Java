@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje13/BTCPretvornik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje12/HexDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje12/HexDump.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/predavanje13/ClassDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje13/ClassDump.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/predavanje13/Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje13/Copy.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/predavanje13/Imenik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje13/Imenik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/predavanje13/Oseba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje13/Oseba.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/predavanje13/Pretvornik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje13/Pretvornik.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/predavanje13/VelikostSlike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje13/VelikostSlike.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje13/abcx.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje13/abcx.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje13/imenik.bin" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje13/imenik.bin" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,9 +85,9 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Copy">
-    <configuration name="Copy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje13.Copy" />
+  <component name="RunManager" selected="Application.Internet">
+    <configuration name="BTCPretvornik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje13.BTCPretvornik" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
@@ -151,7 +152,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Copy" />
+      <item itemvalue="Application.BTCPretvornik" />
       <item itemvalue="Application.Imenik" />
       <item itemvalue="Application.Internet" />
       <item itemvalue="Application.Pretvornik" />
@@ -159,11 +160,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Copy" />
-        <item itemvalue="Application.Imenik" />
-        <item itemvalue="Application.VelikostSlike" />
-        <item itemvalue="Application.Pretvornik" />
         <item itemvalue="Application.Internet" />
+        <item itemvalue="Application.VelikostSlike" />
+        <item itemvalue="Application.BTCPretvornik" />
+        <item itemvalue="Application.Pretvornik" />
+        <item itemvalue="Application.Imenik" />
       </list>
     </recent_temporary>
   </component>
@@ -220,7 +221,8 @@
       <workItem from="1683999298509" duration="362000" />
       <workItem from="1684340889518" duration="230000" />
       <workItem from="1684391880265" duration="8889000" />
-      <workItem from="1684512274271" duration="2993000" />
+      <workItem from="1684512274271" duration="5356000" />
+      <workItem from="1684748252120" duration="6823000" />
     </task>
     <servers />
   </component>

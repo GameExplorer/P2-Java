@@ -6,7 +6,7 @@ import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 
 /**
- * Pretvornik iz enega v drug kodirnik
+ * Pretvornik iz enega v drug kodirni sisstem.
  */
 public class Pretvornik {
     public static void main(String[] args) {

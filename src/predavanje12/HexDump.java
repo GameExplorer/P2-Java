@@ -1,13 +1,13 @@
 package predavanje12;
 
-import java.io.File;
+
 import java.io.FileInputStream;
 
 public class HexDump {
     public static void main(String[] args) {
         try {
             //odprem binarno datoteko
-            FileInputStream fis = new FileInputStream("src/predavanje13/abc.txt");
+            FileInputStream fis = new FileInputStream("src/predavanje12/medo.png");
             int s = 0;
             StringBuilder znaki = new StringBuilder();
             //dokler ima datoteka vsebino...
@@ -19,7 +19,7 @@ public class HexDump {
                 System.out.printf("%02X ", z);
 
                 if(s % 8 == 0) System.out.print("  ");
-                if(s % 16 == 0) System.out.println("     |" + znaki + "|");
+                if(s % 16 == 0) System.out.println("    |" + znaki + "|");
                 znaki = new StringBuilder();
             }
             //na koncu obvezno zaprem datoteko

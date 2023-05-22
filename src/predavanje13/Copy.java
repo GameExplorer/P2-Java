@@ -20,6 +20,7 @@ public class Copy {
             FileInputStream fis = new FileInputStream(input);
             FileOutputStream fos = new FileOutputStream(output);
 
+            //dokler datoteka ima vsebino
             while(fis.available() > 0) {
                 int z = fis.read(); //preberemo znake
                 fos.write(z);

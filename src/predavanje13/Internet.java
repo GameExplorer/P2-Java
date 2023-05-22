@@ -3,6 +3,9 @@ package predavanje13;
 import java.net.URL;
 import java.util.Scanner;
 
+/**
+ * Izpis HTML kode spletne strani
+ */
 public class Internet {
     public static void main(String[] args) {
         try {
