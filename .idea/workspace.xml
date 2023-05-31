@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/predavanje14/Absolutno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje14/BorderLayoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje14/FlowLayoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje14/GridLayoutTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/predavanje14/XOkno.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -221,7 +214,7 @@
       <workItem from="1684748252120" duration="7470000" />
       <workItem from="1684758856908" duration="36000" />
       <workItem from="1685280072833" duration="7000" />
-      <workItem from="1685516905582" duration="3773000" />
+      <workItem from="1685516905582" duration="4598000" />
     </task>
     <servers />
   </component>

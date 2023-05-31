@@ -20,7 +20,7 @@ public class XOkno {
         panel.add(okGumb);
 
         JButton cancelGumb = new JButton("Prekliči");
-        panel.add(cancelGumb);  
+        panel.add(cancelGumb);
 
         okno.setVisible(true);
     }
