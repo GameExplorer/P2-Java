@@ -1,6 +1,10 @@
 package predavanje03;
 
 import java.util.Scanner;
+
+/**
+ * Branje iz tipkovnice, preprost programček
+ */
 public class Uporabnik {
     public static void main(String[] args) {
         System.out.print("Vpiši svoje ime: ");

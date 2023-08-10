@@ -3,9 +3,13 @@ package predavanje03;
 import java.util.Scanner;
 import java.util.Random;
 
+/**
+ * Uporabnik poskuša uganiti število. Sami izberemo interval, nato z random iz tega intervala izberemo
+ * naključno število, ki ga poskušamo uganiti. Na koncu se izpiše število poskusov
+ */
 public class Ugani {
     public static void main(String[] args) {
-        System.out.print("Vnesi naključno število: ");
+        System.out.print("Vnesi interval (MAX ŠTEVILO): ");
 
         Scanner sc = new Scanner(System.in);
         int r_st = sc.nextInt();

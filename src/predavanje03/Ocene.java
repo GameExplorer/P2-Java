@@ -1,6 +1,10 @@
 package predavanje03;
 
 import java.util.Scanner;
+
+/**
+ * Program bere ocene dokler uporabnik ne vpise 0 in izpise povprečje prebranih ocen
+ */
 public class Ocene {
     public static void main(String[] args) {
         int vsota = 0;

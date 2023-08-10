@@ -1,6 +1,10 @@
 package predavanje03;
 
 import java.util.Random;
+
+/**
+ * Izpis 7 naključnih števil
+ */
 public class Loto {
     public static void main(String[] args) {
         //int seme = 1; seed

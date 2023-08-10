@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje03/BranjeDatotek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/predavanje03/bitcoin.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje03/Stetje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje03/Stetje.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,9 +78,9 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Stetje">
-    <configuration name="Loto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje03.Loto" />
+  <component name="RunManager" selected="Application.BranjeDatotek">
+    <configuration name="BranjeDatotek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje03.BranjeDatotek" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
@@ -90,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Statistika" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje02.Statistika" />
+    <configuration name="Loto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje03.Loto" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje02.*" />
+          <option name="PATTERN" value="predavanje03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,19 +145,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BranjeDatotek" />
       <item itemvalue="Application.Loto" />
-      <item itemvalue="Application.Statistika" />
       <item itemvalue="Application.Stetje" />
       <item itemvalue="Application.Ugani" />
       <item itemvalue="Application.tabela" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BranjeDatotek" />
         <item itemvalue="Application.Stetje" />
         <item itemvalue="Application.Ugani" />
         <item itemvalue="Application.Loto" />
         <item itemvalue="Application.tabela" />
-        <item itemvalue="Application.Statistika" />
       </list>
     </recent_temporary>
   </component>
@@ -217,7 +219,7 @@
       <workItem from="1684758856908" duration="36000" />
       <workItem from="1685280072833" duration="7000" />
       <workItem from="1685516905582" duration="5252000" />
-      <workItem from="1689840559916" duration="14225000" />
+      <workItem from="1689840559916" duration="15962000" />
     </task>
     <servers />
   </component>

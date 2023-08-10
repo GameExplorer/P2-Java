@@ -1,5 +1,8 @@
 package predavanje03;
 
+/**
+ * pretvorba iz Stringa v Double
+ */
 public class Racunalo {
     public static void main(String[] args) {
         args = new String[]{"3","4"};
