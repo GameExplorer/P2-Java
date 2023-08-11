@@ -10,10 +10,9 @@ public class CRCGEN {
     public static void main(String[] args) throws Exception {
 
         Scanner sc = new Scanner(new File("src/predavanje04/Vhodna_Zdravljica.txt"));
-        PrintWriter pw = new PrintWriter(new File("src/predavanje04/Izhodna_Zdravljica.txt"));
+        PrintWriter pw = new PrintWriter("src/predavanje04/Izhodna_Zdravljica.txt");
 
         int checkSum = 0;
-
         //datoteko beremo po vrstici
         while(sc.hasNextLine()) {
             //preberem vrstico
@@ -29,11 +28,9 @@ public class CRCGEN {
                 checkSum = (checkSum + (int) znak) % MAX_VSOTA;
             }
         }
-
         pw.print(checkSum);
 
         pw.close();
         sc.close();
-
     }
 }
