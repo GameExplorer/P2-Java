@@ -4,6 +4,16 @@ import java.io.File;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+/**
+ * Napiši program, ki za dano vhodno datoteko izračuna kontrolno vsoto (znakov za konec vrstice ne šteje,
+ * vsoto računa po modulu 1024); program naj vhodno datoteko prepiše v novo datoteko,
+ * tej pa naj na koncu doda izračunano vsoto.
+ * Na začetku programa odpremo dve datoteki: eno za branje (uporabimo razred Scanner),
+ * drugo za pisanje (razred PrintWriter);
+ * datoteko beremo vrstico po vrstico in prebrane vrstice sproti zapisujemo v izhodno datoteko; poleg tega gremo
+ * po vsaki vrstici znak po znaku in posamezne znake prištevamo skupni vsoti;
+ * na koncu v izhodno datoteko zapišemo izračunano vsoto.
+ */
 public class CRCGEN {
     static int MAX_VSOTA = 1024; //računamo po modulu 1024
 

@@ -3,6 +3,10 @@ package predavanje04;
 import java.io.File;
 import java.util.Scanner;
 
+/**
+ *  Napiši program, ki prebere tekstovno datoteko CHF2023.txt, v kateri so zbrani podatki o tečaju švicarskega franka
+ *  za leto 2023 in izpiše datum najvišjega in najnižjega tečaja
+ */
 public class Tecaj {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(new File("src/predavanje04/CHF2022.txt"));

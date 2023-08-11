@@ -4,6 +4,10 @@ import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
+/**
+ * Napiši program, ki v datoteko veckratniki.txt zapiše večkratnike
+ * števila n (od a * n do b * n). Števila a, b in n preberi iz tipkovnice.
+ */
 public class veckratniki {
     public static void main(String[] args) throws FileNotFoundException {
         System.out.print("Vpiši n: ");

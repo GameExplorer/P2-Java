@@ -1,5 +1,9 @@
 package predavanje04;
 
+/**
+ * Napiši program, ki izpiše tabelo za pretvorbo med stopinjami Fahrenheita in stopinjami Celzija,
+ * če se formula za preftvorbo glas
+ */
 public class FC {
     public static void main(String[] args) {
         double f = 0;
