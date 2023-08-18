@@ -2,6 +2,9 @@ package predavanje04;
 
 import java.util.Arrays;
 
+/**
+ * uporaba i++, ++i, i=+1; i+1
+ */
 public class Ipp {
     public static void main(String[] args) {
         int[] t;
