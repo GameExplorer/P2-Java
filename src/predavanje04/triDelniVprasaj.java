@@ -5,6 +5,7 @@ public class triDelniVprasaj {
 
         double n = 38;
 
+        // ? operator v akciji
         System.out.println(n < 37 ? "Zdrav" : "Vrocina");
     }
 }
