@@ -6,8 +6,8 @@ package predavanje04;
  */
 public class FC {
     public static void main(String[] args) {
-        double f = 0;
-        double c = 0;
+        double f;
+        double c;
 
         args = new String[]{"100","20","5"};
 
