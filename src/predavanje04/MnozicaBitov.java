@@ -3,11 +3,11 @@ package predavanje04;
 /**
  * Program za delo z mnozico znakov
  * v enem stevilu tipa int imam na razpolago 31 bitov, ki jih lahko porabim za
- * implementacijo množice, če je bit prizgan, je priadajoci elemnt v mnozici,
+ * implementacijo množice, če je bit prizgan, je pripadajoci element v mnozici,
  * sicer elementa ni v mnozici.
  * Ker ima angleška abeceda 26 črk, imamo v int-u dovolj prostora, da si zapomnimo
  * katere črke so v mnozici in katere niso
- *
+ *a si zapo
  * Bit '0' pripada crki 'a', bit '1' pripada crki 'b',...
  */
 public class MnozicaBitov {
