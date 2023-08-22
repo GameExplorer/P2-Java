@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje04/MnozicaBitov.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje04/MnozicaBitov.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje02/Nizi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/Nizi.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,7 +77,7 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CRCGEN">
+  <component name="RunManager" selected="Application.Nizi">
     <configuration name="CRCGEN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje04.CRCGEN" />
       <module name="javaPredavanja" />
@@ -104,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IzpisSistemi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje04.IzpisSistemi" />
+    <configuration name="Nizi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje02.Nizi" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje04.*" />
+          <option name="PATTERN" value="predavanje02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -146,17 +146,17 @@
     <list>
       <item itemvalue="Application.CRCGEN" />
       <item itemvalue="Application.FC" />
-      <item itemvalue="Application.IzpisSistemi" />
+      <item itemvalue="Application.Nizi" />
       <item itemvalue="Application.veckratniki" />
       <item itemvalue="Application.vrstniRed" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Nizi" />
         <item itemvalue="Application.CRCGEN" />
         <item itemvalue="Application.FC" />
         <item itemvalue="Application.vrstniRed" />
         <item itemvalue="Application.veckratniki" />
-        <item itemvalue="Application.IzpisSistemi" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +221,7 @@
       <workItem from="1689840559916" duration="19774000" />
       <workItem from="1691742940678" duration="290000" />
       <workItem from="1692287792486" duration="4961000" />
-      <workItem from="1692453594348" duration="4080000" />
+      <workItem from="1692453594348" duration="8060000" />
     </task>
     <servers />
   </component>

@@ -6,7 +6,7 @@ public class Nizi {
 
         System.out.println("Dolžina niza: " + niz.length());
 
-        for (int i = 0; i < 3; i++) {
+        for (int i = 0; i < 4; i++) {
             System.out.println(niz.charAt(i));
         }
 
