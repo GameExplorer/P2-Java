@@ -3,6 +3,10 @@ package predavanje05;
 import java.io.File;
 import java.util.Scanner;
 
+/**
+ * Preberem datoteko passwd in izpišem uporabniška imena (prvi podatek) in uid(tretji podatek) iz vsake
+ * vrstice
+ */
 public class Users {
     public static void main(String[] args) throws Exception {
         Scanner sc = new Scanner(new File("src/predavanje05/passwd.txt"));

@@ -9,7 +9,7 @@ public class Boxing {
         a = new Integer(5);
 
         /*v a shranim int (čeprav je a namenjena shranjevanju
-        ojbketov tipa Integer). Java bo poskrbela za "boxing", to
+        objketov tipa Integer). Java bo poskrbela za "boxing", to
         je za "pretvorbo" iz int v Integer
          */
         a = 5;

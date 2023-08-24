@@ -6,7 +6,12 @@
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje02/Nizi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje02/Nizi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje05/Boxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/Boxing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje05/BuffervBuildervString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/BuffervBuildervString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje05/Sah.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/Sah.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje05/TwoDTabele.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/TwoDTabele.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje05/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje05/passwd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/passwd.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +82,13 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Nizi">
-    <configuration name="CRCGEN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje04.CRCGEN" />
+  <component name="RunManager" selected="Application.Sah">
+    <configuration name="BuffervBuildervString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje05.BuffervBuildervString" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje04.*" />
+          <option name="PATTERN" value="predavanje05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,8 +96,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje04.FC" />
+    <configuration name="CRCGEN" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje04.CRCGEN" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
@@ -117,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="veckratniki" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje04.veckratniki" />
+    <configuration name="Sah" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje05.Sah" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje04.*" />
+          <option name="PATTERN" value="predavanje05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="vrstniRed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje04.vrstniRed" />
+    <configuration name="Users" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje05.Users" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje04.*" />
+          <option name="PATTERN" value="predavanje05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,19 +149,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.BuffervBuildervString" />
       <item itemvalue="Application.CRCGEN" />
-      <item itemvalue="Application.FC" />
       <item itemvalue="Application.Nizi" />
-      <item itemvalue="Application.veckratniki" />
-      <item itemvalue="Application.vrstniRed" />
+      <item itemvalue="Application.Sah" />
+      <item itemvalue="Application.Users" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Sah" />
+        <item itemvalue="Application.Users" />
+        <item itemvalue="Application.BuffervBuildervString" />
         <item itemvalue="Application.Nizi" />
         <item itemvalue="Application.CRCGEN" />
-        <item itemvalue="Application.FC" />
-        <item itemvalue="Application.vrstniRed" />
-        <item itemvalue="Application.veckratniki" />
       </list>
     </recent_temporary>
   </component>
@@ -221,7 +226,7 @@
       <workItem from="1689840559916" duration="19774000" />
       <workItem from="1691742940678" duration="290000" />
       <workItem from="1692287792486" duration="4961000" />
-      <workItem from="1692453594348" duration="8060000" />
+      <workItem from="1692453594348" duration="21158000" />
     </task>
     <servers />
   </component>
