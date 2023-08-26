@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje05/Boxing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/Boxing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje05/BuffervBuildervString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/BuffervBuildervString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje05/Sah.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/Sah.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje05/TwoDTabele.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/TwoDTabele.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje05/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje05/passwd.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje05/passwd.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,7 +220,7 @@
       <workItem from="1689840559916" duration="19774000" />
       <workItem from="1691742940678" duration="290000" />
       <workItem from="1692287792486" duration="4961000" />
-      <workItem from="1692453594348" duration="21158000" />
+      <workItem from="1692453594348" duration="21857000" />
     </task>
     <servers />
   </component>
