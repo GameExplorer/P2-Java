@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje06/io/BeriPisi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje06/io/BeriPisi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje06/kodiranje/Kodiranje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje06/kodiranje/Kodiranje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje06/kodiranje/Kodirniki.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje06/kodiranje/Kodirniki.java" afterDir="false" />
-    </list>
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -224,7 +219,7 @@
       <workItem from="1691742940678" duration="290000" />
       <workItem from="1692287792486" duration="4961000" />
       <workItem from="1692453594348" duration="21857000" />
-      <workItem from="1693237351851" duration="7086000" />
+      <workItem from="1693237351851" duration="7448000" />
     </task>
     <servers />
   </component>
