@@ -20,7 +20,7 @@ public class Kodirniki {
             /*
             i-ti znak besedila moramo zakodirati z i-tim znakom kljuca, ker je kljuc praviloma krajši
             od besedila, pri kljuci namesto charAt(i) uporabimo charAt(i % dolzinaGesla).
-            Na ta način vsak znak kljuce večkrat ponovno uporabimo
+            Na ta način vsak znak kljuca večkrat ponovno uporabimo
              */
             char novZnak = (char) (vsebina.charAt(i) ^ kljuc.charAt(i % dolzinaGesla));
             result.append(novZnak);
@@ -40,12 +40,12 @@ public class Kodirniki {
     static String kodirajNUM(String vsebina){
         StringBuilder result = new StringBuilder();
 
-        for(int i = 0; i < vsebina.length(); i++) {
-           int z = vsebina.charAt(i);
-           if(!(result.toString().isEmpty())) {
+        for(int i = 0; i < vsebina.length(); i++) { //Sprehodim se po vsebini
+           int z = vsebina.charAt(i); //dobim št. vsake črke ascii kodo
+           if(!(result.toString().isEmpty())) { //če rezultat ni empty torej ni prazen dodaj presledek
                result.append(" ");
             }
-           result.append(z);
+           result.append(z); //sicer dodaj številko
         }
         return result.toString();
     }

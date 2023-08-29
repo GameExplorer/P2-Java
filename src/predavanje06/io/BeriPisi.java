@@ -12,6 +12,12 @@ import java.util.Scanner;
  */
 public class BeriPisi {
 
+    /**
+     * Metoda prebere vsebino tekstovne datoteke in vrne njeno vsebino kot en niz
+     * @param imeDatoteke ime datoteke, ki jo preberemo
+     * @return vsebina.toString() vrnemo vsebino
+     * @throws Exception ker beremo moramo throwat Exception
+     */
     public static String preberiDatoteko(String imeDatoteke) throws Exception {
         Scanner sc = new Scanner(new File(imeDatoteke));
         StringBuilder vsebina = new StringBuilder();
@@ -27,9 +33,9 @@ public class BeriPisi {
 
     /**
      * One liner isto kot prejšna metoda
-     * @param imeDatoteke
-     * @return
-     * @throws Exception
+     * @param imeDatoteke imeDatoteke ki jo preberemo
+     * @return isto kot prej
+     * @throws Exception isto kot prej
      */
     public static String preberiDatotekoOL(String imeDatoteke) throws Exception {
         return Files.readString(Path.of(imeDatoteke));
@@ -37,11 +43,8 @@ public class BeriPisi {
 
         /**
          * Metoda zapiše podano vsebino v tekstovno datoteko
-         *
-         * @param imeDatoteke
-         * @param vsebina
-         * @return
-         * @throws FileNotFoundException
+         * @param imeDatoteke ime datoteke v katero pišemo
+         * @param vsebina vsebina, ki se zapiše
          */
     public static void zapisiVDatoteko(String imeDatoteke, String vsebina) throws FileNotFoundException {
         PrintWriter pw = new PrintWriter(imeDatoteke);

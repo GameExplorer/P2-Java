@@ -3,21 +3,25 @@ package predavanje06.kodiranje;
 import predavanje06.io.BeriPisi;
 import predavanje06.main.gui.KodiranjeOkno;
 
+/**
+ * Glavni program. Vsebuje metodo main() in metodo doKodiranje(), ki
+ * opravi galvno delo kodiranja
+ */
 public class Kodiranje {
 
     /**
      * Metoda prebere datoteko in jo zakodira/odkodira in izpise v izhodno datoteko
-     * @param nacin
-     * @param smer
-     * @param vhod
-     * @param izhod
-     * @param kljuc
-     * @throws Exception
+     * @param nacin nacin kodiranja (XOR, NUM, BASE64)
+     * @param smer ali gre za kodiranje ali dekodiranje
+     * @param vhod vhodna datoteka
+     * @param izhod izhodna datoteka
+     * @param kljuc kljuc za xor kodiranje
      */
     public static void deKodiranje(String nacin, String smer, String vhod, String izhod, String kljuc) throws Exception {
         //prebere datoteko iz diska
         String vsebina = BeriPisi.preberiDatotekoOL(vhod);
 
+        // zakodiraj vsebino datoteke
         switch (nacin) {
             case "XOR":
                 if(smer.equals("code")) vsebina = Kodirniki.kodirajXOR(vsebina, kljuc);
@@ -37,13 +41,29 @@ public class Kodiranje {
     }
 
     /**
-     * @param args
-     * @throws Exception
+     * @throws Exception - delamo z datotekami
      */
     public static void main(String[] args) throws Exception {
         // ce imam argumente, jih preberem in klicem deKodiranje()
-        String vsebina = BeriPisi.preberiDatoteko("src/Predavanje06/kodiranje/io/veckratniki.txt");
-        BeriPisi.zapisiVDatoteko("src/Predavanje06/kodiranje/kodiranje/v.txt", vsebina);
+        //args = new String[]{"XOR", "decode", "veckratniki.txt", "v.txt", "abc"};
+        String vsebina = BeriPisi.preberiDatoteko("src/predavanje06/io/veckratniki.txt");
+        BeriPisi.zapisiVDatoteko("src/predavanje06/kodiranje/v.txt", vsebina);
+
+        /******* TEST **********/
+        String niz = "Kratko besedilo";
+
+        niz = Kodirniki.kodirajB64(niz);
+        System.out.println(niz);
+
+        niz = Kodirniki.kodirajNUM(niz);
+        System.out.println(niz);
+
+        niz = Kodirniki.kodirajXOR(niz, "ANA");
+        System.out.println(niz);
+
+        /***** KONEC TESTA *****/
+
+        // ce imam argumente jih preberem in klicem deKodiranje()
         if(args.length >= 1) {
             String nacin = args[0];
             String smer = args[1];
