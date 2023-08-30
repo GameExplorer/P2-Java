@@ -1,6 +1,11 @@
     import java.awt.*;
+    import java.text.DateFormat;
+    import java.text.SimpleDateFormat;
+    import java.util.Calendar;
+    import java.util.Date;
 
     public class Tarca {
+        //Izris 10 krogov s središčem v 0,0
         public static void tarca() {
             StdDraw.setScale(-100, 100);
             StdDraw.setPenColor(Color.blue);
@@ -9,6 +14,10 @@
             }
         }
 
+        /**
+         * Izris mreže kvadratov (n x n) velikos s presledkom p med njimi
+         * Kvadratki so spreminjajoče barve (mešanica rdečge in zelene)
+         */
         public static void kvadrati() {
             int n = 25; //št kvadratkov v vsaki vrsti in stolpcu
             int s = 10; // veliko   st posameznega kvadratka
@@ -24,15 +33,19 @@
             }
         }
 
+        /**
+         * Izris kvadratne spirale
+         */
         public static void kvadratnaSpirala() {
             StdDraw.setScale(-100, 100);
             int px = 0, py = 0; //prejšna x in y
 
-            int[][] smeri = {{0,-1}, {-1,0}, {0,1}, {1,0}};
+            int[][] smeri = {{0,-1}, {-1,0}, {0,1}, {1,0}}; //smeri izrisa
             int tsmer = 0;
             int d = 3;
 
             for(int i = 0; ; i++) {
+                //sprememba smeri
                 int x = px + d * smeri[tsmer][0];
                 int y = py + d * smeri[tsmer][1];
 
@@ -43,9 +56,7 @@
                 if(d > 200) break;
                 px = x;
                 py = y;
-
             }
-
         }
 
         public static void spirala() {
@@ -63,8 +74,8 @@
 
                 px = tx;
                 py = ty;
-                kot = kot + 3;
-                d = d * 1.02;
+                kot = kot + 3; // ko povecujem kot se vrtim v krogih
+                d = d * 1.02; // povečujem oddaljenost od središča
             }
         }
 
@@ -76,14 +87,28 @@
 
             StdDraw.enableDoubleBuffering();
 
+            String vzorec = "hh:mm:ss";
+            DateFormat df = new SimpleDateFormat(vzorec);
+
             int kot = 0;
             while(true) {
+                //trenuta ura s pomočjo izbranega formata pretvorim v niz
+                Date c = Calendar.getInstance().getTime();
+                String ura = df.format(c);
+
                 StdDraw.clear(Color.black);
+
+                //izris ure
+                StdDraw.text(80,80,ura);
+
+                //izris krogov
                 for(int i = 0; i <= 4; i++) {
                     StdDraw.circle(0,0, i * 20);
                 }
+
+                //izris kazalca
                 kazalec(85, kot);
-                kot += 1;
+                kot += 1; // kot povečujem pri vsakem izrisu da se kazalec vrti
                 StdDraw.pause(25);
                 StdDraw.show();
             }
@@ -95,9 +120,9 @@
         }
         public static void main(String[] args) {
             //tarca();
-            kvadrati();
+            //kvadrati();
             //kvadratnaSpirala();
             //spirala();
-            //radar();
+            radar();
         }
     }
