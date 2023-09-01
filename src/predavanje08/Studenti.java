@@ -8,7 +8,6 @@ import java.util.Scanner;
  * ter metodi povprecje() in toString()
  * Razred Studenti vsebuje metode za testiranje uporabe in
  * delovanja razreda Student
- *
  */
 class Student {
 
