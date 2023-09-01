@@ -1,4 +1,4 @@
-package predavanje09;
+package predavanje09.Knjiga;
 
 /**
  * Razred z atributi avtor, naslov, letoIzdaje
@@ -26,6 +26,7 @@ abstract public class Knjiga { //moramo napisati abstract, ker vsebuje (vsaj) en
         return "Stevilka knjige: " + this.zaporednaStevilka;
     }
 
+    /***** GETTERJI IN SETTERJI ******/
     public String getAvtor() {
         return avtor;
     }
@@ -50,6 +51,7 @@ abstract public class Knjiga { //moramo napisati abstract, ker vsebuje (vsaj) en
         this.letoIzdaje = letoIzdaje;
     }
 
+    // ABSTRAKTEN RAZRED
     abstract String getPodrobnosti(); //abstrakten razred
     void izpisi() {
         System.out.println("Knjiga številka: " + this.zaporednaStevilka);

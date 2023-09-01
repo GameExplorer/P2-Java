@@ -1,4 +1,4 @@
-package predavanje09;
+package predavanje09.Knjiga;
 
 /**
  * Iz razreda Knjiga izpeljani razred, ki ima poleg podedovanih atributov in metod
@@ -13,7 +13,7 @@ public class LeposlovnaKnjiga extends Knjiga {
     public LeposlovnaKnjiga() {}
 
     LeposlovnaKnjiga(String avtor, String naslov, int letoIzdaje) {
-        super(avtor, naslov, letoIzdaje);
+        super(avtor, naslov, letoIzdaje); // pokličemo super, ker bomo uporabili iste podatke
 
         mnenjeBralcev = new String[maxMnenj];
         stMnenj = 0;

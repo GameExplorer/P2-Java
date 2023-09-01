@@ -1,4 +1,4 @@
-package predavanje09;
+package predavanje09.Funkcija;
 
 /**
  * Razred definira metodo nicla(), ki s pomočjo znane Newtonove iteracijske metode izračuna

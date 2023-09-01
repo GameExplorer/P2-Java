@@ -1,4 +1,4 @@
-package predavanje09;
+package predavanje09.Funkcija;
 
 /**
  * Razširitev razreda Funkcija - definiramo metodi vrednost in odvnod tako, da funkcija

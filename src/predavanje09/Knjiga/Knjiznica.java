@@ -1,4 +1,4 @@
-package predavanje09;
+package predavanje09.Knjiga;
 
 /**
  * Razred za testiranje razreda Knjiga in njegovih podrazredov

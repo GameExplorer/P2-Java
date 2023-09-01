@@ -6,7 +6,13 @@
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje08/Studenti.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje08/Studenti.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje09/Funkcija.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje09/Funkcija/Funkcija.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje09/Knjiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje09/Knjiga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje09/LeposlovnaKnjiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje09/LeposlovnaKnjiga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje09/Newton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje09/Funkcija/Newton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje09/StrokovnaKnjiga.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje09/StrokovnaKnjiga.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje09/TestNewton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje09/Funkcija/TestNewton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje09/TestOseba.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje09/TestOseba.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,20 +83,7 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Studenti (1)">
-    <configuration name="Kodiranje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje06.kodiranje.Kodiranje" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje06.kodiranje.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TestNewton">
     <configuration name="RazredFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje07.RazredFile" />
       <module name="javaPredavanja" />
@@ -137,20 +130,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestNewton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje09.Funkcija.TestNewton" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predavanje09.Knjiga.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Studenti" />
       <item itemvalue="Application.Studenti (1)" />
+      <item itemvalue="Application.TestNewton" />
       <item itemvalue="Application.RazredFile" />
       <item itemvalue="Application.Tarca" />
-      <item itemvalue="Application.Kodiranje" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestNewton" />
         <item itemvalue="Application.Studenti (1)" />
         <item itemvalue="Application.Studenti" />
         <item itemvalue="Application.RazredFile" />
         <item itemvalue="Application.Tarca" />
-        <item itemvalue="Application.Kodiranje" />
       </list>
     </recent_temporary>
   </component>
@@ -219,7 +225,7 @@
       <workItem from="1693237351851" duration="7448000" />
       <workItem from="1693405197845" duration="4781000" />
       <workItem from="1693505286537" duration="1121000" />
-      <workItem from="1693558060640" duration="4210000" />
+      <workItem from="1693558060640" duration="11905000" />
     </task>
     <servers />
   </component>

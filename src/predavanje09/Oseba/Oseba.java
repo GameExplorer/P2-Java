@@ -1,4 +1,4 @@
-package predavanje09;
+package predavanje09.Oseba;
 
 public class Oseba {
     String ime;
