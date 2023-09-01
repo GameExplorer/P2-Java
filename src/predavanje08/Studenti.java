@@ -3,12 +3,10 @@ package predavanje08;
 import java.util.Scanner;
 
 /**
- * Datoteka vsebbuje razreda Student ii Studenti
- *
+ * Datoteka vsebbuje razreda Student in Studenti
  * Razred Student vsebuje štiri atribute (ime, id, ocene in status)
  * ter metodi povprecje() in toString()
- *
- * Razred Studenti vsebuje metode za ttestiranje uporabe in
+ * Razred Studenti vsebuje metode za testiranje uporabe in
  * delovanja razreda Student
  *
  */
@@ -19,8 +17,8 @@ class Student {
     private String ime; //ime studenta
     private String iD; //vpisna številka studenta
 
-    private int[] ocene; //tabela ocen
-    private int stOcen; //koliko cen je ze zapisanih v tabeli
+    private final int[] ocene; //tabela ocen
+    private int stOcen; //koliko ocen je ze zapisanih v tabeli
 
     private String status; // ce povprecje >9 si Odlicen sicer Dober
 
@@ -56,9 +54,8 @@ class Student {
     }
 
     /**
-     * Metoda vrne true če je v tabeli še prostor za ocene
+     * @return Metoda vrne true če je v tabeli še prostor za ocene
      * false sicer
-     * @return
      */
     boolean prostorVTabeli() {
         return this.stOcen < maxOcen;
@@ -69,7 +66,7 @@ class Student {
      * in posodobi status
      * @return vrne true, če je dodajanje uspelo (če je bilo
      * še dovolj prostora) in false sicer
-     * @param ocena
+     * @param ocena - ocena ki jo prejme od uporabnika
      */
     boolean dodajOceno(int ocena) {
         if(!prostorVTabeli()) return false;
@@ -84,7 +81,7 @@ class Student {
 
     /**
      * Izračuna povprečje ocen v tabeli ocene
-     * @return
+     * @return - vrne povprecje ocen
      */
     double povprecje() {
         if(this.stOcen == 0) return 0;
@@ -97,15 +94,19 @@ class Student {
 
     /**
      * Znakovna reprezentacija studenta
-     * @return
+     * @return izpiše informacijo o studentu
      */
     public String toString() {
-        return String.format("Ime: %s, ID: %s, povp.ocena: %.2f, status:%s ", this.ime, this.iD, povprecje(),
+        return String.format("Ime: %s, ID: %s, povp.ocena: %.2f, status: %s ", this.ime, this.iD, povprecje(),
                 this.status);
     }
 }
 public class Studenti {
 
+    /**
+     * Najslabši način, ker se koda ponavlja. Možnost, da pride do napake je velika
+     * in da napako popravimo je precejšna.
+     */
     static void studenti1() {
         String ime1, ime2, ime3;
         String id1, id2, id3;
@@ -122,6 +123,10 @@ public class Studenti {
         System.out.println("Vpiši ID: "); id3 = sc.nextLine();
     }
 
+    /**
+     * Izboljšana verzija ampak še vedno ni najboljša
+     * @param n - št. študentov
+     */
     public static void studenti2(int n) {
         String[] ime = new String[n];
         String[] Id = new String[n];
@@ -136,12 +141,16 @@ public class Studenti {
         }
     }
 
+    /**
+     * Izboljšana verzija studenti2, kjer uporabimo atribute iz razreda Student
+     * @param n - št študentov
+     */
     public static void studenti3(int n) {
-        Student[] studenti = new Student[n]; //ustvarimo tabelo študentov velikosti n v katero lahko dodajm študente
+        Student[] studenti = new Student[n]; //ustvarimo tabelo študentov velikosti n v katero lahko dodajam študente
 
         Scanner sc = new Scanner(System.in);
         for(int i = 0; i < n; i++) {
-            Student s = new Student();
+            Student s = new Student(); //ustvarim objekt Student
 
             System.out.print("Vpiši ime: ");
             s.setIme(sc.nextLine()); //s.ime = sc.nextLine(); to ne gre saj je ime privatno isto velja za id
@@ -149,11 +158,16 @@ public class Studenti {
             System.out.print("Vpiši ID: ");
             s.setID(sc.nextLine());
 
-            studenti[i] = s;
+            studenti[i] = s; //shranim vneše podatke v tabelo
         }
     }
+
+    /**
+     *
+     * @param n - št. študentov
+     */
     public static void studenti4(int n) {
-        Student[] studenti = new Student[n]; //ustvarimo tabelo študentov velikosti n v katero lahko dodajm študente
+        Student[] studenti = new Student[n]; //ustvarimo tabelo študentov velikosti n v katero lahko dodajam študente
 
         Scanner sc = new Scanner(System.in);
         for(int i = 0; i < n; i++) {
@@ -163,11 +177,15 @@ public class Studenti {
             System.out.print("Vpiši ID: ");
             iD = sc.nextLine(); //s.id ne gre ker je id privaten
 
-            Student s = new Student(ime, iD);
+            Student s = new Student(ime, iD); //ustvarim objekt Student z dvema parametroma
 
-            studenti[i] = s;
+            studenti[i] = s; //shranim vneše podatke v tabelo
         }
     }
+
+    /**
+     * Metoda izračuna studentovo povprečno oceno in izpiše vse njegove podatke toString();
+     */
     public static void studenti5() {
         Scanner sc = new Scanner(System.in);
         String ime, iD;
@@ -188,8 +206,7 @@ public class Studenti {
             }
         } while (ocena != 0 && s1.prostorVTabeli());
 
-
-        System.out.println(s1.toString());
+        System.out.println(s1);
     }
     public static void main(String[] args) {
 
