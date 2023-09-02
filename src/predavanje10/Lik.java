@@ -3,6 +3,11 @@ package predavanje10;
 import java.awt.Color;
 
 
+/**
+ * Abstraktni razred hrani atribute za položaj lika, oznacen, metodo premakni ki spremeni x in y
+ * abstraktne metode narisiSe(), spremeniVelikost(), pripada, ki pove ali točka pripada liku in narisiOznake ki narise
+ * kvadratke
+ */
 abstract public class Lik {
     private double x;
     private double y;

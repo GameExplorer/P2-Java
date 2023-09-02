@@ -2,8 +2,9 @@ package predavanje10;
 
 import java.awt.Color;
 import edu.princeton.cs.algs4.StdDraw;
+
 public class Pravokotnik extends Lik {
-    private double a; //sirna
+    private double a; //sirina
     private double b; //visina
 
     public Pravokotnik(double x, double y, double a, double b, Color barva) {

@@ -26,6 +26,6 @@ public class Krog extends Lik {
     }
 
     void povecajSe(double f) {
-        this.r = this.r * f;
+        this.r *= f;
     }
 }
