@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/predavanje10/Krog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje10/Krog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje10/Lik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje10/Lik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/predavanje10/Pravokotnik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje10/Pravokotnik.java" afterDir="false" />
-    </list>
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -227,7 +223,7 @@
       <workItem from="1693405197845" duration="4781000" />
       <workItem from="1693505286537" duration="1121000" />
       <workItem from="1693558060640" duration="11983000" />
-      <workItem from="1693655456446" duration="2887000" />
+      <workItem from="1693655456446" duration="3020000" />
     </task>
     <servers />
   </component>
