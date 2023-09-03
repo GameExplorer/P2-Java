@@ -3,6 +3,11 @@ package predavanje12;
 /**
  * Program v vsakem primeru izpiše tudi C, saj se ukaz za ta izpis
  * nahaja v finally bloku ta pa se vedno izvede. Če podam argumente se vsi izpišejo
+ *
+ * A se vedno izpiše
+ * B se izpiše če imamo vsaj en argument
+ * C se ne glede na izjemo izpiše
+ * D se izpiše če ne pride do izjeme
  */
 public class Finally {
     public static void main(String[] args) {

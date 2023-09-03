@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class TryWithResources implements Closeable {
     public static void main(String[] args) throws FileNotFoundException {
         // try-with-resources: če datotkeke odprem v () delu try bloka jih bo java sama zaprla
-        // klicala bo njohve close() metode
+        // klicala bo njihove close() metode
         try (
                 Scanner vhod = new Scanner(new File("src/predavanje11/Fis/drzave.txt"));
                 PrintWriter izhod = new PrintWriter("b.txt");

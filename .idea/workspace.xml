@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/src/predavanje12/Finally.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje12/Finally.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,22 +76,9 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tekmovalci">
+  <component name="RunManager" selected="Application.TryWithResources">
     <configuration name="IImenik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje11.Imenik.IImenik" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje11.Imenik.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Mnozice" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje11.Mnozice" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
@@ -140,20 +129,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TryWithResources" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje12.TryWithResources" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="predavanje12.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.TryWithResources" />
       <item itemvalue="Application.IImenik" />
-      <item itemvalue="Application.Mnozice" />
       <item itemvalue="Application.SeznamImen_List" />
       <item itemvalue="Application.StringTokenizers" />
       <item itemvalue="Application.Tekmovalci" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TryWithResources" />
         <item itemvalue="Application.Tekmovalci" />
         <item itemvalue="Application.StringTokenizers" />
         <item itemvalue="Application.IImenik" />
         <item itemvalue="Application.SeznamImen_List" />
-        <item itemvalue="Application.Mnozice" />
       </list>
     </recent_temporary>
   </component>
@@ -225,6 +227,7 @@
       <workItem from="1693558060640" duration="11983000" />
       <workItem from="1693655456446" duration="3020000" />
       <workItem from="1693685550226" duration="8948000" />
+      <workItem from="1693735482444" duration="2665000" />
     </task>
     <servers />
   </component>
