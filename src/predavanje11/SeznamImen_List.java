@@ -1,7 +1,11 @@
 package predavanje11;
 
 import java.util.*;
-public class SeznamImen {
+
+/**
+ * Primer uporabe ArrayList-a
+ */
+public class SeznamImen_List {
     public static void main(String[] args) {
         ArrayList<String> imena = new ArrayList<>();
 
@@ -12,19 +16,26 @@ public class SeznamImen {
         imena.add("Žiga");
         imena.add("Zala");
 
+        System.out.println("Imena tako kot smo jih vnesli: " + imena);
         Collections.sort(imena);
+        System.out.println("Urejena imena: "  + imena);
+
+        System.out.println();
+        //klasična for zanka za sprehod čez elemente
+        System.out.print("Imena: ");
+        for(int i = 0; i < imena.size(); i++) {
+            System.out.print(imena.get(i) + " ");
+        }
+
         System.out.println();
 
-        //klasična for zanka
-        for(int i = 0; i < imena.size(); i++) {
-            System.out.println(imena.get(i));
-        }
-        System.out.println();
         imena.remove("Vida"); // ne moremo odstraniti elemnta, ki ga ni
 
+        System.out.println();
         //for each zanka
+        System.out.print("Izpis s for each: ");
         for(String ime : imena) {
-            System.out.println(ime);
+            System.out.print(ime + " ");
         }
 
         System.out.println();

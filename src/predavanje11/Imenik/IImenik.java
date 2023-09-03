@@ -1,4 +1,4 @@
-package predavanje11;
+package predavanje11.Imenik;
 
 import java.util.ArrayList;
 import java.util.Collections;

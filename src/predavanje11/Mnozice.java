@@ -2,6 +2,9 @@ package predavanje11;
 
 import java.util.*;
 
+/**
+ * Množica (Set)
+ */
 public class Mnozice {
     public static void main(String[] args) {
         //HashSet<String> dnevi = new HashSet<>();
@@ -27,7 +30,7 @@ public class Mnozice {
 
         // Iterator
         Iterator<String> it = dnevi.iterator();
-        while (it.hasNext()) { //izpis po abecdnem reud
+        while (it.hasNext()) { //izpis po abecdnem redu
             String dan = it.next();
             if (dan.equals("PON")) {
                 it.remove();
@@ -46,6 +49,7 @@ public class Mnozice {
             }
         }
 
+        System.out.println();
         dnevi.clear(); //sprazni zbirko
         System.out.println(dnevi); //prazna zbirka
 

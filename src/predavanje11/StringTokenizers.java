@@ -9,7 +9,7 @@ public class StringTokenizers {
         System.out.println(podniz[0]);
         System.out.println();
 
-        //Razbije stavek na več delov
+        //Razbitje stavka na več delov
         StringTokenizer stk = new StringTokenizer(a, ":");
         while (stk.hasMoreElements()) {
             System.out.println(stk.nextElement());

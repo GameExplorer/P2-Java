@@ -3,12 +3,15 @@ package predavanje11.Fis;
 import java.io.File;
 import java.util.*;
 
+/**
+ * Izpišemo vse države, ki sodelujejo na smučarskem tekmovanju
+ */
 public class Drzave {
 
     static TreeMap<String, Drzava> preberiDrzave(String imeDatoteke) throws Exception {
         TreeMap<String, Drzava> drzave = new TreeMap<>();
 
-        Scanner sc = new Scanner(new File(imeDatoteke));
+        Scanner sc = new Scanner(new File(imeDatoteke)); //odprem datoteko
 
         while(sc.hasNext()) {
             //preberem vrstico datoteke in jo razbijem po znaku ":"

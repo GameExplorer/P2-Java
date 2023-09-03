@@ -2,7 +2,7 @@ package predavanje11;
 
 import java.util.*;
 
-public class Meseci {
+public class Meseci_Slovar {
     public static void main(String[] args) {
 
         //Slovar mesecev, kljuc je ime meseca, vrednost pa št. dni. Lahko uporabimo HashMap ali pa TreeMap. TreeMap jih
@@ -22,7 +22,7 @@ public class Meseci {
         meseci.put("November", 30);
         meseci.put("December", 31);
 
-        System.out.println(meseci.values()); //izpis št. dni za vsak mesec
+        System.out.println(meseci.values()); //izpis št. dni za vsak mesec po abecednem redu
         System.out.println(meseci.keySet()); //izpiše ključe -> mesece
         System.out.println(meseci.get("Maj")); //izpis št. dni za maj
 
