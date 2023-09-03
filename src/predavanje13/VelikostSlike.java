@@ -1,5 +1,6 @@
 package predavanje13;
 
+import java.io.BufferedInputStream;
 import java.io.DataInputStream;
 import java.io.FileInputStream;
 
@@ -12,7 +13,8 @@ public class VelikostSlike {
     public static void main(String[] args) {
         String ime = "src/predavanje13/linux.png";
         try (FileInputStream fis = new FileInputStream(ime);
-            DataInputStream dis = new DataInputStream(fis);)
+             BufferedInputStream bis = new BufferedInputStream(fis); // ni potreben, je samo za dodatek
+             DataInputStream dis = new DataInputStream(bis);)
         {
             byte[] prvaVrstica = new byte[16];
             dis.read(prvaVrstica);

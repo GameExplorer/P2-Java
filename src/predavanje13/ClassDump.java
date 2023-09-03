@@ -32,6 +32,5 @@ public class ClassDump {
         catch (Exception e) {
             System.out.println(e);
         }
-
     }
 }

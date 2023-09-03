@@ -7,10 +7,13 @@ import java.io.*;
  */
 public class Imenik {
     public static void main(String[] args) throws IOException {
-        //zapisiObjekte();
+        zapisiObjekte();
         preberiObjekte();
     }
 
+    /**
+     * Zapisem podatke v datoteko
+     */
     public static void zapisiObjekte() {
         Oseba Anastija = new Oseba("Anastija", 21);
         Oseba Berta = new Oseba("Berta", 21);
@@ -33,6 +36,7 @@ public class Imenik {
             System.out.println(e);
         }
     }
+
     //branje objektov iz datoteke
     public static void preberiObjekte() {
         try (FileInputStream fis = new FileInputStream("src/predavanje13/imenik.bin");

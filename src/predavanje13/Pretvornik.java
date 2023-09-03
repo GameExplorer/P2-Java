@@ -11,7 +11,7 @@ import java.io.OutputStreamWriter;
 public class Pretvornik {
     public static void main(String[] args) {
         String inputCharset = "UTF-8";
-        String outputCharset = "CP1250";
+        String outputCharset = "UTF-16";
 
         String imeDatoteke = "src/predavanje13/abc.txt";
 

@@ -10,8 +10,8 @@ public class BTCPretvornik {
 
     public static void main(String[] args) {
         try {
-            String in = "ETH";
-            String out = "EUR";
+            String in = "BTC";
+            String out = "USD";
 
             //prebrali bomo odgovor, ki ga dobimo na tem naslovu
             URL url = new URL("https://min-api.cryptocompare.com/data/price?fsym=" +in+ "&tsyms="+out);
@@ -23,7 +23,7 @@ public class BTCPretvornik {
             odgovor = odgovor.replace("{", "").replace("}", "");
             String[] deli = odgovor.split(":");
 
-            System.out.println(deli[1]);
+            System.out.println("Trenutna vrednost: " + deli[1]);
 
             sc.close();
         } catch (Exception e) {
