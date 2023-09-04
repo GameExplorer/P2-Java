@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Naloga11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Naloga12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/kolo-danes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,20 +77,7 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Naloga11">
-    <configuration name="Absolutno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje14.Absolutno" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Naloga12">
     <configuration name="BorderLayoutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje14.BorderLayoutTest" />
       <module name="javaPredavanja" />
@@ -143,20 +130,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Naloga12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Naloga12" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Izpiti.Poletni2023.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Naloga11" />
-      <item itemvalue="Application.Absolutno" />
+      <item itemvalue="Application.Naloga12" />
       <item itemvalue="Application.BorderLayoutTest" />
       <item itemvalue="Application.FlowLayoutTest" />
       <item itemvalue="Application.GridLayoutTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Naloga12" />
         <item itemvalue="Application.Naloga11" />
         <item itemvalue="Application.GridLayoutTest" />
         <item itemvalue="Application.BorderLayoutTest" />
         <item itemvalue="Application.FlowLayoutTest" />
-        <item itemvalue="Application.Absolutno" />
       </list>
     </recent_temporary>
   </component>
@@ -231,7 +231,7 @@
       <workItem from="1693735482444" duration="2752000" />
       <workItem from="1693750133469" duration="5498000" />
       <workItem from="1693832382390" duration="2768000" />
-      <workItem from="1693852256532" duration="2936000" />
+      <workItem from="1693852256532" duration="4365000" />
     </task>
     <servers />
   </component>
