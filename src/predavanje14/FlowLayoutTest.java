@@ -18,6 +18,7 @@ public class FlowLayoutTest {
         JButton gumb4 = new JButton("četrti");
         JButton gumb5 = new JButton("peti");
         JButton gumb6 = new JButton("šesti");
+        JButton gumb7 = new JButton("sedmi");
 
         panel.add(gumb1);
         panel.add(gumb2);
@@ -25,6 +26,7 @@ public class FlowLayoutTest {
         panel.add(gumb4);
         panel.add(gumb5);
         panel.add(gumb6);
+        panel.add(gumb7);
 
         okno.add(panel);
         okno.setVisible(true);

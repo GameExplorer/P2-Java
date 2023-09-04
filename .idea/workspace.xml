@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje14/BorderLayoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje14/BorderLayoutTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/predavanje14/FlowLayoutTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/predavanje14/FlowLayoutTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,13 +78,13 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BTCPretvornik">
-    <configuration name="BTCPretvornik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje13.BTCPretvornik" />
+  <component name="RunManager" selected="Application.GridLayoutTest">
+    <configuration name="Absolutno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje14.Absolutno" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje13.*" />
+          <option name="PATTERN" value="predavanje14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -88,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ClassDump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje13.ClassDump" />
+    <configuration name="BorderLayoutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje14.BorderLayoutTest" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje13.*" />
+          <option name="PATTERN" value="predavanje14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -101,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Imenik" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje13.Imenik" />
+    <configuration name="FlowLayoutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje14.FlowLayoutTest" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje13.*" />
+          <option name="PATTERN" value="predavanje14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -114,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Internet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje13.Internet" />
+    <configuration name="GridLayoutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje14.GridLayoutTest" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje13.*" />
+          <option name="PATTERN" value="predavanje14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,12 +131,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="VelikostSlike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje13.VelikostSlike" />
+    <configuration name="XOkno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje14.XOkno" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje13.*" />
+          <option name="PATTERN" value="predavanje14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -141,19 +145,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BTCPretvornik" />
-      <item itemvalue="Application.ClassDump" />
-      <item itemvalue="Application.Imenik" />
-      <item itemvalue="Application.Internet" />
-      <item itemvalue="Application.VelikostSlike" />
+      <item itemvalue="Application.Absolutno" />
+      <item itemvalue="Application.BorderLayoutTest" />
+      <item itemvalue="Application.FlowLayoutTest" />
+      <item itemvalue="Application.GridLayoutTest" />
+      <item itemvalue="Application.XOkno" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BTCPretvornik" />
-        <item itemvalue="Application.Internet" />
-        <item itemvalue="Application.Imenik" />
-        <item itemvalue="Application.VelikostSlike" />
-        <item itemvalue="Application.ClassDump" />
+        <item itemvalue="Application.GridLayoutTest" />
+        <item itemvalue="Application.BorderLayoutTest" />
+        <item itemvalue="Application.FlowLayoutTest" />
+        <item itemvalue="Application.Absolutno" />
+        <item itemvalue="Application.XOkno" />
       </list>
     </recent_temporary>
   </component>
@@ -227,6 +231,7 @@
       <workItem from="1693685550226" duration="8948000" />
       <workItem from="1693735482444" duration="2752000" />
       <workItem from="1693750133469" duration="5498000" />
+      <workItem from="1693832382390" duration="2622000" />
     </task>
     <servers />
   </component>

@@ -14,12 +14,14 @@ public class BorderLayoutTest {
         JButton gumb1 = new JButton("prvi");
         JButton gumb2 = new JButton("drugi");
         JButton gumb3 = new JButton("tretji");
+        JButton gumb4 = new JButton("četrti");
 
         gumb1.setPreferredSize(new Dimension(50,50));
 
         okno.add(gumb1, BorderLayout.PAGE_START);
         okno.add(gumb2, BorderLayout.PAGE_END);
         okno.add(gumb3, BorderLayout.LINE_START);
+        okno.add(gumb4, BorderLayout.LINE_END);
 
         JTextArea jta = new JTextArea();
         okno.add(jta);
