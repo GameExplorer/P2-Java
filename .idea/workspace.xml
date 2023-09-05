@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Naloga12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/kolo-danes.txt" afterDir="false" />
-    </list>
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -231,7 +228,7 @@
       <workItem from="1693735482444" duration="2752000" />
       <workItem from="1693750133469" duration="5498000" />
       <workItem from="1693832382390" duration="2768000" />
-      <workItem from="1693852256532" duration="4365000" />
+      <workItem from="1693852256532" duration="5421000" />
     </task>
     <servers />
   </component>
