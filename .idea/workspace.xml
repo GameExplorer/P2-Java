@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/b.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Naloga11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Rok_1/Naloga11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Naloga12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Rok_1/Naloga12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Naloga13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Rok_1/Naloga13.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Naloga14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Rok_1/Naloga14.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Izpiti/Poletni2023/kolo-danes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Rok_1/kolo-danes.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Izpiti/Poletni2023/kolo-letos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Rok_1/kolo-letos.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2022/Rok_1/Naloga11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2022/Rok_1/Naloga12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,12 +73,26 @@
       <recent name="$PROJECT_DIR$/src/predavanje05/si/fri/kodiranje/io" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Izpiti/Poletni2023/Rok_1" />
       <recent name="$PROJECT_DIR$/src/predavanje12" />
       <recent name="$PROJECT_DIR$/src/predavanje10/Fis" />
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Naloga13">
+  <component name="RunManager" selected="Application.Naloga11">
+    <configuration name="Naloga11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2022.Rok_1.Naloga11" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Izpiti.Poletni2022.Rok_1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Naloga12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Rok_1.Naloga12" />
       <module name="javaPredavanja" />
@@ -102,19 +112,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Izpiti.Poletni2023.Rok_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Naloga22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Rok_2.Naloga22" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Izpiti.Poletni2023.Rok_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,18 +147,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Naloga13" />
-      <item itemvalue="Application.Naloga22" />
       <item itemvalue="Application.Naloga23" />
       <item itemvalue="Application.Naloga24" />
+      <item itemvalue="Application.Naloga11" />
       <item itemvalue="Application.Naloga12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Naloga11" />
         <item itemvalue="Application.Naloga13" />
         <item itemvalue="Application.Naloga12" />
         <item itemvalue="Application.Naloga24" />
         <item itemvalue="Application.Naloga23" />
-        <item itemvalue="Application.Naloga22" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +234,7 @@
       <workItem from="1693750133469" duration="5498000" />
       <workItem from="1693832382390" duration="2768000" />
       <workItem from="1693852256532" duration="5421000" />
-      <workItem from="1693901135755" duration="12071000" />
+      <workItem from="1693901135755" duration="13555000" />
     </task>
     <servers />
   </component>
