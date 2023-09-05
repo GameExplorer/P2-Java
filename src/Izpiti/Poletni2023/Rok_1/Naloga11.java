@@ -1,4 +1,4 @@
-package Izpiti.Poletni2023;
+package Izpiti.Poletni2023.Rok_1;
 
 /**
  * Kolesarski števec šteje koliko kolesarjev je ta dan peljalo mimo števca
