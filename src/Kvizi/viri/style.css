@@ -1,0 +1,93 @@
+html, body {
+    color: #242729;
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    font-size: 13px;
+    line-height: 1.30769231
+}
+body {
+    box-sizing: border-box;
+    min-height: 100%;
+    background: #fafafa
+}
+body *, body *: before, body *: after {
+    box-sizing: inherit
+}
+.s-btn {
+    position: relative;
+    padding: .8em;
+    border: 1px solid transparent;
+    border-radius: 0;
+    background-color: transparent;
+    outline: none;
+    font-family: inherit;
+    font-size: inherit;
+    font-weight: 400;
+    line-height: 1.15384615;
+    text-decoration: none;
+    cursor: pointer;
+    border-color: rgba(150, 18, 18, 0);
+    box-shadow: 0 0 0 0 rgba(0, 149, 255, 0);
+    color: #C31818
+}
+.s-btn: hover {
+    border-color: rgba(150, 18, 18, 0)
+}
+.s-btn: active {
+    border-color: rgba(104, 13, 13, 0)
+}
+.s-btn.is-selected {
+    border-color: rgba(59, 7, 7, 0)
+}
+.s-btn[disabled] {
+    border-color: rgba(113, 106, 106, 0.1)
+}
+.s-btn: hover {
+    box-shadow: 0 0 0 0 rgba(0, 149, 255, 0)
+}
+.s-btn: focus {
+    box-shadow: 0 0 0 1px rgba(255, 255, 255, 0.5), 0 0 0 4px rgba(0, 149, 255, 0.1)
+}
+.s-btn[disabled] {
+    box-shadow: none
+}
+.s-btn, .s-btn: focus {
+    background-color: rgba(195, 24, 24, 0)
+}
+.s-btn: hover {
+    background-color: rgba(200, 19, 19, 0.05)
+}
+.s-btn: active {
+    background-color: rgba(211, 8, 8, 0.15)
+}
+.s-btn.is-selected {
+    background-color: rgba(217, 2, 2, 0.25)
+}
+.s-btn[disabled] {
+    background-color: rgba(110, 110, 110, 0.2)
+}
+.s-btn, .s-btn: hover, .s-btn: focus, .s-btn.is-selected, .s-btn[disabled] {
+    background-image: none
+}
+.s-btn.s-btn__dropdown: after {
+    border-color: currentColor transparent
+}
+.s-btn: hover, .s-btn: active {
+    color: #961212
+}
+.s-btn: focus, .s-btn.is-selected {
+    color: #680d0d
+}
+.s-btn[disabled] {
+    color: rgba(110, 110, 110, 0.8)
+}
+.s-btn: hover, .s-btn: focus {
+    text-decoration: none
+}
+.s-btn: focus {
+    outline: none
+}
+.s-btn[disabled] {
+    opacity: 1;
+    cursor: default;
+    pointer-events: none
+}
