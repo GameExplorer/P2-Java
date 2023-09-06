@@ -5,7 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi4/Kviz12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi3/Kviz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi3/Kviz2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi3/Kviz3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi3/Kviz4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi3/Kviz5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/tocke.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +56,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Kviz4",
+    "git-widget-placeholder": "Kviz3",
     "jdk.selected.JAVA_MODULE": "corretto-11",
     "last_opened_file_path": "C:/Users/Dom/Documents/GitHub/javaPredavanja",
     "node.js.detected.package.eslint": "true",
@@ -77,13 +83,13 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Kviz12">
-    <configuration name="Kviz11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz11" />
+  <component name="RunManager" selected="Application.Kviz5">
+    <configuration name="Kviz1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi3.Kviz1" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
+          <option name="PATTERN" value="Kvizi.Kvizi3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +97,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kviz12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz12" />
+    <configuration name="Kviz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi3.Kviz2" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
+          <option name="PATTERN" value="Kvizi.Kvizi3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +110,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kviz7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz7" />
+    <configuration name="Kviz3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi3.Kviz3" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
+          <option name="PATTERN" value="Kvizi.Kvizi3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +123,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kviz8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz8" />
+    <configuration name="Kviz4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi3.Kviz4" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
+          <option name="PATTERN" value="Kvizi.Kvizi3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Kviz9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz9" />
+    <configuration name="Kviz5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi3.Kviz5" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
+          <option name="PATTERN" value="Kvizi.Kvizi3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,19 +150,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Kviz11" />
-      <item itemvalue="Application.Kviz12" />
-      <item itemvalue="Application.Kviz7" />
-      <item itemvalue="Application.Kviz8" />
-      <item itemvalue="Application.Kviz9" />
+      <item itemvalue="Application.Kviz1" />
+      <item itemvalue="Application.Kviz2" />
+      <item itemvalue="Application.Kviz3" />
+      <item itemvalue="Application.Kviz4" />
+      <item itemvalue="Application.Kviz5" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Kviz12" />
-        <item itemvalue="Application.Kviz8" />
-        <item itemvalue="Application.Kviz9" />
-        <item itemvalue="Application.Kviz11" />
-        <item itemvalue="Application.Kviz7" />
+        <item itemvalue="Application.Kviz5" />
+        <item itemvalue="Application.Kviz4" />
+        <item itemvalue="Application.Kviz3" />
+        <item itemvalue="Application.Kviz2" />
+        <item itemvalue="Application.Kviz1" />
       </list>
     </recent_temporary>
   </component>
@@ -234,7 +240,7 @@
       <workItem from="1693852256532" duration="5421000" />
       <workItem from="1693901135755" duration="22896000" />
       <workItem from="1693940925915" duration="7758000" />
-      <workItem from="1693980585617" duration="13338000" />
+      <workItem from="1693980585617" duration="17023000" />
     </task>
     <servers />
   </component>
