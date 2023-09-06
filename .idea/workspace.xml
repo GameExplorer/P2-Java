@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi4/Kviz2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/txt.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi4/Kviz5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/skrito.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Kviz2">
+  <component name="RunManager" selected="Application.Kviz5">
     <configuration name="Kviz1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz1" />
       <module name="javaPredavanja" />
@@ -119,12 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Naloga33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2022.Rok_3.Naloga33" />
+    <configuration name="Kviz5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz5" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Izpiti.Poletni2022.Rok_3.*" />
+          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,16 +149,16 @@
       <item itemvalue="Application.Kviz1" />
       <item itemvalue="Application.Kviz2" />
       <item itemvalue="Application.Kviz4" />
-      <item itemvalue="Application.Naloga33" />
+      <item itemvalue="Application.Kviz5" />
       <item itemvalue="Application.Naloga34" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kviz5" />
         <item itemvalue="Application.Kviz2" />
         <item itemvalue="Application.Kviz4" />
         <item itemvalue="Application.Kviz1" />
         <item itemvalue="Application.Naloga34" />
-        <item itemvalue="Application.Naloga33" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +236,7 @@
       <workItem from="1693852256532" duration="5421000" />
       <workItem from="1693901135755" duration="22896000" />
       <workItem from="1693940925915" duration="7758000" />
-      <workItem from="1693980585617" duration="6088000" />
+      <workItem from="1693980585617" duration="8068000" />
     </task>
     <servers />
   </component>
