@@ -20,7 +20,7 @@ public class Naloga21 {
             x = x >> 1; //... nato jo odrežem od x
         }
 
-        return rezultat;
+        return rezultat; //vrnem rezultat
     }
 
     /**
@@ -38,7 +38,7 @@ public class Naloga21 {
             if(d.charAt(i) == '1') {
                 rezultat += utez;
             }
-            utez *= 2;
+            utez *= 2; // 2 ... 4... 8 .. 16.. 32
         }
 
         return rezultat;
