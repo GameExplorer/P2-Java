@@ -29,8 +29,7 @@ public class Naloga11 {
 
         dni += dan;
         //System.out.println(dni);
-
-
+        
         double povprecje = (double) letos / dni; //izračunamo povprečje kolesarjev do danes
         //System.out.println(povprecje);
 
