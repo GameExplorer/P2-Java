@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi4/Kviz8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/test1.clc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/test2.clc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi4/Kviz9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/ikona.p2b" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,22 +79,9 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Kviz8">
+  <component name="RunManager" selected="Application.Kviz9">
     <configuration name="Kviz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz2" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Kviz4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz4" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
@@ -146,20 +132,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Kviz9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz9" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Kviz2" />
-      <item itemvalue="Application.Kviz4" />
       <item itemvalue="Application.Kviz5" />
       <item itemvalue="Application.Kviz7" />
       <item itemvalue="Application.Kviz8" />
+      <item itemvalue="Application.Kviz9" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kviz9" />
         <item itemvalue="Application.Kviz8" />
         <item itemvalue="Application.Kviz7" />
         <item itemvalue="Application.Kviz5" />
         <item itemvalue="Application.Kviz2" />
-        <item itemvalue="Application.Kviz4" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +236,7 @@
       <workItem from="1693852256532" duration="5421000" />
       <workItem from="1693901135755" duration="22896000" />
       <workItem from="1693940925915" duration="7758000" />
-      <workItem from="1693980585617" duration="11330000" />
+      <workItem from="1693980585617" duration="12326000" />
     </task>
     <servers />
   </component>
