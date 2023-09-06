@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Rok_2/Naloga23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2023/Rok_2/Naloga23.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lib/commons-codec-1.15/apidocs/index.html" beforeDir="false" />
-    </list>
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -78,13 +75,13 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Naloga22 (1)">
-    <configuration name="Naloga14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Rok_1.Naloga14" />
+  <component name="RunManager" selected="Application.Kodiranje">
+    <configuration name="Kodiranje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="predavanje06.kodiranje.Kodiranje" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Izpiti.Poletni2023.Rok_1.*" />
+          <option name="PATTERN" value="predavanje06.kodiranje.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Naloga21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Rok_2.Naloga21" />
+    <configuration name="Naloga14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Rok_1.Naloga14" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Izpiti.Poletni2023.Rok_2.*" />
+          <option name="PATTERN" value="Izpiti.Poletni2023.Rok_1.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,19 +136,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Kodiranje" />
       <item itemvalue="Application.Naloga14" />
-      <item itemvalue="Application.Naloga21" />
       <item itemvalue="Application.Naloga22" />
       <item itemvalue="Application.Naloga22 (1)" />
       <item itemvalue="Application.Tarca" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kodiranje" />
         <item itemvalue="Application.Naloga22 (1)" />
         <item itemvalue="Application.Tarca" />
         <item itemvalue="Application.Naloga14" />
         <item itemvalue="Application.Naloga22" />
-        <item itemvalue="Application.Naloga21" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +226,7 @@
       <workItem from="1693852256532" duration="5421000" />
       <workItem from="1693901135755" duration="22896000" />
       <workItem from="1693940925915" duration="7758000" />
-      <workItem from="1693980585617" duration="33854000" />
+      <workItem from="1693980585617" duration="34244000" />
     </task>
     <servers />
   </component>
