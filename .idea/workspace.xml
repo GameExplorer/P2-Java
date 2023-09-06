@@ -78,20 +78,7 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Tarca">
-    <configuration name="GridLayoutTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje14.GridLayoutTest" />
-      <module name="javaPredavanja" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="predavanje14.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Naloga22 (1)">
     <configuration name="Naloga14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Rok_1.Naloga14" />
       <module name="javaPredavanja" />
@@ -107,6 +94,19 @@
     </configuration>
     <configuration name="Naloga21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Rok_2.Naloga21" />
+      <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Izpiti.Poletni2023.Rok_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Naloga22 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Rok_2.Naloga22" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
@@ -139,19 +139,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GridLayoutTest" />
       <item itemvalue="Application.Naloga14" />
       <item itemvalue="Application.Naloga21" />
       <item itemvalue="Application.Naloga22" />
+      <item itemvalue="Application.Naloga22 (1)" />
       <item itemvalue="Application.Tarca" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Naloga22 (1)" />
         <item itemvalue="Application.Tarca" />
         <item itemvalue="Application.Naloga14" />
         <item itemvalue="Application.Naloga22" />
         <item itemvalue="Application.Naloga21" />
-        <item itemvalue="Application.GridLayoutTest" />
       </list>
     </recent_temporary>
   </component>
