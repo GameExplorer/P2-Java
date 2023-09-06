@@ -2,7 +2,6 @@ package Izpiti.Poletni2023.Rok_1;
 
 import edu.princeton.cs.algs4.StdDraw;
 
-import java.awt.*;
 
 public class Naloga14 {
     /**
