@@ -1,0 +1,29 @@
+VseZaHišo d.o.o
+Naslov 45
+1000 Ljubljana
+ID številka za DDV: SI12345678
+----------------------------------
+Datum: 01.06.2018
+Številka računa: T03-45-45
+----------------------------------
+Naziv               DDV     ZNESEK
+1. KEMA Hidrostop	1,21	6,71
+1kos x 6,71
+artikel: 56435
+
+2. TEKAPUR 500ml	0,99	5,49
+1kos x 5,49
+artikel: 6434543
+
+3. PIPA krogelna	1,67	9,27
+1kos x 9,27
+artikel: 23454/1
+
+4. KOLENO pocinkano	0,33	1,83
+1kos x 1,83
+artikel: 334256/2
+----------------------------------
+
+Skupaj brez DDV:
+DDV:
+ZNESEK SKUPAJ:

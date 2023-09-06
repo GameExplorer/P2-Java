@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi4/Kviz1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi4/Kviz3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi4/Kviz4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/besedilo1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/besedilo2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/igralci1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/igralke1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/racun.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,28 +51,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "jdk.selected.JAVA_MODULE": "corretto-11",
-    "last_opened_file_path": "C:/Users/Dom/Documents/GitHub/javaPredavanja",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "Errors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-11&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dom/Documents/GitHub/javaPredavanja&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;Errors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/predavanje13" />
@@ -75,13 +85,13 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Naloga34">
-    <configuration name="Naloga24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2022.Rok_2.Naloga24" />
+  <component name="RunManager" selected="Application.Kviz4">
+    <configuration name="Kviz1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz1" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Izpiti.Poletni2022.Rok_2.*" />
+          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Naloga31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2022.Rok_3.Naloga31" />
+    <configuration name="Kviz2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz2" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Izpiti.Poletni2022.Rok_3.*" />
+          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Naloga32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2022.Rok_3.Naloga32" />
+    <configuration name="Kviz4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Kvizi.Kvizi4.Kviz4" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Izpiti.Poletni2022.Rok_3.*" />
+          <option name="PATTERN" value="Kvizi.Kvizi4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,19 +152,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Naloga24" />
-      <item itemvalue="Application.Naloga31" />
-      <item itemvalue="Application.Naloga32" />
+      <item itemvalue="Application.Kviz1" />
+      <item itemvalue="Application.Kviz2" />
+      <item itemvalue="Application.Kviz4" />
       <item itemvalue="Application.Naloga33" />
       <item itemvalue="Application.Naloga34" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Kviz4" />
+        <item itemvalue="Application.Kviz2" />
+        <item itemvalue="Application.Kviz1" />
         <item itemvalue="Application.Naloga34" />
         <item itemvalue="Application.Naloga33" />
-        <item itemvalue="Application.Naloga32" />
-        <item itemvalue="Application.Naloga31" />
-        <item itemvalue="Application.Naloga24" />
       </list>
     </recent_temporary>
   </component>
@@ -232,6 +242,7 @@
       <workItem from="1693852256532" duration="5421000" />
       <workItem from="1693901135755" duration="22896000" />
       <workItem from="1693940925915" duration="7758000" />
+      <workItem from="1693980585617" duration="5022000" />
     </task>
     <servers />
   </component>
