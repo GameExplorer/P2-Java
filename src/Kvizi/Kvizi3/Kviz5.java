@@ -7,6 +7,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
+
 class Tocka {
     int x,y;
 
@@ -70,6 +71,7 @@ public class Kviz5 {
     public static void main(String[] args) {
         Tocka t = new Tocka(5,4);
         Tocka[] t2 = Tocka.preberiTocke("src/Kvizi/viri/tocke.txt");
+
         System.out.println(Arrays.toString(t2));
     }
 }
