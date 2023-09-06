@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi3/Kviz13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/i1-n1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/i1-n2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/i1-n3.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/i1-n4.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Kvizi/viri/i1-prijave.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Kvizi/Kvizi3/Kviz9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Kvizi/Kvizi3/Kviz9.java" afterDir="false" />
-    </list>
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +48,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Kviz3",
+    "git-widget-placeholder": "master",
     "jdk.selected.JAVA_MODULE": "corretto-11",
     "last_opened_file_path": "C:/Users/Dom/Documents/GitHub/javaPredavanja",
     "node.js.detected.package.eslint": "true",
@@ -241,7 +232,7 @@
       <workItem from="1693852256532" duration="5421000" />
       <workItem from="1693901135755" duration="22896000" />
       <workItem from="1693940925915" duration="7758000" />
-      <workItem from="1693980585617" duration="20913000" />
+      <workItem from="1693980585617" duration="22421000" />
     </task>
     <servers />
   </component>
