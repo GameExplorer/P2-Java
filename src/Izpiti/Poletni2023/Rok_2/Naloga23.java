@@ -19,7 +19,7 @@ public class Naloga23 {
                 // znak se mora nahajati med 32 in 127, drugače izpišemo piko
                 znaki += (z >= 32 && z <= 127) ? (char) z : ".";
 
-                //izpis hex znakov
+                //izpis hex znakov, 0.. pomeni da če je en znak ti doda 0 spredaj
                 System.out.printf("%02X ", z);
 
                 //pridem do konca vrstice in izpišem na desni besedilo
