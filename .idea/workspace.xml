@@ -78,13 +78,13 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Naloga22">
-    <configuration name="Kodiranje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="predavanje06.kodiranje.Kodiranje" />
+  <component name="RunManager" selected="Application.BranjeDatotek">
+    <configuration name="BranjeDatotek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Predavanja.predavanje03.BranjeDatotek" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="predavanje06.kodiranje.*" />
+          <option name="PATTERN" value="Predavanja.predavanje03.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -145,7 +145,7 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Kodiranje" />
+      <item itemvalue="Application.BranjeDatotek" />
       <item itemvalue="Application.Naloga11" />
       <item itemvalue="Application.Naloga21" />
       <item itemvalue="Application.Naloga22" />
@@ -153,11 +153,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BranjeDatotek" />
         <item itemvalue="Application.Naloga22" />
         <item itemvalue="Application.Naloga21" />
         <item itemvalue="Application.Naloga24" />
         <item itemvalue="Application.Naloga11" />
-        <item itemvalue="Application.Kodiranje" />
       </list>
     </recent_temporary>
   </component>

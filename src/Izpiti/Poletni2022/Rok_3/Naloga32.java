@@ -17,7 +17,7 @@ class IzjemaNapacneDatoteke extends RuntimeException {
 }
 public class Naloga32 {
     public static void main(String[] args) throws IzjemaNapacneDatoteke, IOException {
-        args = new String[]{"src/predavanje13/imenik.bin"};
+        args = new String[]{"src/Predavanja.predavanje13/imenik.bin"};
 
         FileInputStream vhod = new FileInputStream(args[0]);
 
