@@ -1,7 +1,7 @@
 package Izpiti.Poletni2022.Rok_2;
 
 /**
- * Razred predstavlja matriko celih števil ima dva atributa ki določata vellikost matrike in tretji ki nastavi
+ * Razred predstavlja matriko celih števil ima dva atributa  ki določata vellikost matrike in tretji ki nastavi
  * vrednost matrike
  */
 class Matrika {

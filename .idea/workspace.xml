@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="" />
+    <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Izpiti/Poletni2022/Rok_2/Naloga23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Izpiti/Poletni2022/Rok_2/Naloga23.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -75,7 +78,7 @@
       <recent name="$PROJECT_DIR$/src/predavanje04" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Naloga11">
+  <component name="RunManager" selected="Application.Naloga22">
     <configuration name="Kodiranje" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="predavanje06.kodiranje.Kodiranje" />
       <module name="javaPredavanja" />
@@ -102,12 +105,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Naloga14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Rok_1.Naloga14" />
+    <configuration name="Naloga21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2022.Rok_2.Naloga21" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Izpiti.Poletni2023.Rok_1.*" />
+          <option name="PATTERN" value="Izpiti.Poletni2022.Rok_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,12 +118,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Naloga22 (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2023.Rok_2.Naloga22" />
+    <configuration name="Naloga22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2022.Rok_2.Naloga22" />
       <module name="javaPredavanja" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Izpiti.Poletni2023.Rok_2.*" />
+          <option name="PATTERN" value="Izpiti.Poletni2022.Rok_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,9 +131,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Tarca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tarca" />
+    <configuration name="Naloga24" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Izpiti.Poletni2022.Rok_2.Naloga24" />
       <module name="javaPredavanja" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Izpiti.Poletni2022.Rok_2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -138,17 +147,17 @@
     <list>
       <item itemvalue="Application.Kodiranje" />
       <item itemvalue="Application.Naloga11" />
-      <item itemvalue="Application.Naloga14" />
-      <item itemvalue="Application.Naloga22 (1)" />
-      <item itemvalue="Application.Tarca" />
+      <item itemvalue="Application.Naloga21" />
+      <item itemvalue="Application.Naloga22" />
+      <item itemvalue="Application.Naloga24" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Naloga22" />
+        <item itemvalue="Application.Naloga21" />
+        <item itemvalue="Application.Naloga24" />
         <item itemvalue="Application.Naloga11" />
         <item itemvalue="Application.Kodiranje" />
-        <item itemvalue="Application.Naloga22 (1)" />
-        <item itemvalue="Application.Tarca" />
-        <item itemvalue="Application.Naloga14" />
       </list>
     </recent_temporary>
   </component>
@@ -226,7 +235,7 @@
       <workItem from="1693852256532" duration="5421000" />
       <workItem from="1693901135755" duration="22896000" />
       <workItem from="1693940925915" duration="7758000" />
-      <workItem from="1693980585617" duration="35920000" />
+      <workItem from="1693980585617" duration="37888000" />
     </task>
     <servers />
   </component>
