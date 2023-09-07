@@ -15,7 +15,7 @@ public class Naloga21 {
 
         while(x > 0) { //dokler je x večji od 0
             if ((x & 1) == 1) rezultat = "1" + rezultat; //zadnjo cifro dodam v rezultat...
-            else rezultat = "0" + rezultat;
+            else rezultat = "0" + rezultat; //sicer dodam na koncu 0 ...
 
             x = x >> 1; //... nato jo odrežem od x
         }
