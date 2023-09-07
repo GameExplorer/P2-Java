@@ -41,7 +41,7 @@ public class Naloga24 {
             public void actionPerformed(ActionEvent e) {
                 int stevilo;
                 try {
-                    stevilo = Integer.parseInt(nTF.getText()); //iz inputa spremenimo v int
+                    stevilo = Integer.parseInt(nTF.getText()); //iz inputa spremenimo v int besedilo
                     fakultetaTF.setText(fakulteta(stevilo)+"");
                 } catch (Exception ex) {
                     throw new NapacnaVrednost();
