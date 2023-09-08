@@ -6,18 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f355a98e-a2e2-4d3a-8760-48adb2a784b7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje05/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje05/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje06/kodiranje/Kodiranje.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje06/kodiranje/Kodiranje.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje06/kodiranje/v.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje06/kodiranje/v.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje07/RazredFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje07/RazredFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje11/Fis/Drzave.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje11/Fis/Drzave.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje12/HexDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje12/HexDump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje12/TryWithResources.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje12/TryWithResources.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje13/ClassDump.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje13/ClassDump.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje13/Copy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje13/Copy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje13/Imenik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje13/Imenik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje13/Pretvornik.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje13/Pretvornik.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Predavanja/predavanje13/VelikostSlike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Predavanja/predavanje13/VelikostSlike.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -248,7 +236,7 @@
       <workItem from="1693940925915" duration="7758000" />
       <workItem from="1693980585617" duration="37888000" />
       <workItem from="1694163635301" duration="749000" />
-      <workItem from="1694201454398" duration="1593000" />
+      <workItem from="1694201454398" duration="3727000" />
     </task>
     <servers />
   </component>
