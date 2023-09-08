@@ -13,9 +13,9 @@ public class Pretvornik {
         String inputCharset = "UTF-8";
         String outputCharset = "UTF-16";
 
-        String imeDatoteke = "src/Predavanja.predavanje13/abc.txt";
+        String imeDatoteke = "src/Predavanja/predavanje13/abc.txt";
 
-        String imeIzhodne = "src/Predavanja.predavanje13/abcx.txt";
+        String imeIzhodne = "src/Predavanja/predavanje13/abcx.txt";
 
         try (
             FileInputStream fis = new FileInputStream(imeDatoteke);

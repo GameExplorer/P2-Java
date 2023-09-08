@@ -8,7 +8,7 @@ public class TryWithResources implements Closeable {
         // try-with-resources: če datotkeke odprem v () delu try bloka jih bo java sama zaprla
         // klicala bo njihove close() metode
         try (
-                Scanner vhod = new Scanner(new File("src/Predavanja.predavanje11/Fis/drzave.txt"));
+                Scanner vhod = new Scanner(new File("src/Predavanja/predavanje11/Fis/drzave.txt"));
                 PrintWriter izhod = new PrintWriter("b.txt");
                 TryWithResources twr = new TryWithResources();
         ) {
@@ -19,7 +19,7 @@ public class TryWithResources implements Closeable {
         Scanner sc = null;
         try {
             //vse datoteke, ki jih odprem v try bloku
-            sc = new Scanner(new File("src/Predavanja.predavanje11/Fis/drzave.txt"));
+            sc = new Scanner(new File("src/Predavanja/predavanje11/Fis/drzave.txt"));
         } catch (FileNotFoundException e) {
             System.out.println("Datoteka ne obstaja");
         } finally {

@@ -22,7 +22,7 @@ public class Imenik {
         Oseba Elizabeta = new Oseba("Elizabeta", 25);
 
         try {
-            FileOutputStream fos = new FileOutputStream("src/Predavanja.predavanje13/imenik.bin");
+            FileOutputStream fos = new FileOutputStream("src/Predavanja/predavanje13/imenik.bin");
             ObjectOutputStream oos = new ObjectOutputStream(fos);
 
             oos.writeObject(Anastija);
@@ -39,7 +39,7 @@ public class Imenik {
 
     //branje objektov iz datoteke
     public static void preberiObjekte() {
-        try (FileInputStream fis = new FileInputStream("src/Predavanja.predavanje13/imenik.bin");
+        try (FileInputStream fis = new FileInputStream("src/Predavanja/predavanje13/imenik.bin");
              ObjectInputStream ois = new ObjectInputStream(fis))
         {
             Oseba a = (Oseba) ois.readObject(); //prvi objekt

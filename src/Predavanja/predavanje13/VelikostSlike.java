@@ -11,7 +11,7 @@ import java.io.FileInputStream;
 public class VelikostSlike {
 
     public static void main(String[] args) {
-        String ime = "src/Predavanja.predavanje13/linux.png";
+        String ime = "src/Predavanja/predavanje13/linux.png";
         try (FileInputStream fis = new FileInputStream(ime);
              BufferedInputStream bis = new BufferedInputStream(fis); // ni potreben, je samo za dodatek
              DataInputStream dis = new DataInputStream(bis);)

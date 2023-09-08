@@ -4,7 +4,7 @@ import java.io.File;
 
 public class RazredFile {
     public static void main(String[] args) {
-        File f = new File("src/Predavanja.predavanje07/test.txt");
+        File f = new File("src/Predavanja/predavanje07/test.txt");
 
         File f2 = new File("dist");
 

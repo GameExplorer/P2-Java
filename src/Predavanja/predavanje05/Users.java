@@ -9,7 +9,7 @@ import java.util.Scanner;
  */
 public class Users {
     public static void main(String[] args) throws Exception {
-        Scanner sc = new Scanner(new File("src/Predavanja.predavanje05/passwd.txt"));
+        Scanner sc = new Scanner(new File("src/Predavanja/predavanje05/passwd.txt"));
 
         while(sc.hasNextLine()) {
             String vrstica = sc.nextLine();

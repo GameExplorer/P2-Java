@@ -84,7 +84,7 @@ public class Copy {
         }
     }
     public static void main(String[] args) {
-        if(!kopirajNajHitreje ("src/Predavanja.predavanje13/drzave.txt", "src/Predavanja.predavanje13/kopiranaDat.txt")) {
+        if(!kopirajNajHitreje ("src/Predavanja/predavanje13/drzave.txt", "src/Predavanja/predavanje13/kopiranaDat.txt")) {
             System.out.println("Neuspešno kopiranje");
         }
         else {

@@ -10,7 +10,7 @@ import java.io.FileInputStream;
 public class ClassDump {
 
     public static void main(String[] args) {
-        String ime = "out/production/javaPredavanja/Predavanja.predavanje13/Copy.class";
+        String ime = "out/production/javaPredavanja/Predavanja/predavanje13/Copy.class";
         try (FileInputStream fis = new FileInputStream(ime);
              DataInputStream dis = new DataInputStream(fis);)
         {

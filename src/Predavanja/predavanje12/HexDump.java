@@ -7,7 +7,7 @@ public class HexDump {
     public static void main(String[] args) {
         try {
             //odprem binarno datoteko
-            FileInputStream fis = new FileInputStream("src/Predavanja.predavanje12/medo.png");
+            FileInputStream fis = new FileInputStream("src/Predavanja/predavanje12/medo.png");
             int s = 0;
             StringBuilder znaki = new StringBuilder();
             //dokler ima datoteka vsebino...

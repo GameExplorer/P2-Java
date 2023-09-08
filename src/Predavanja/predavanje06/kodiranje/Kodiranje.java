@@ -46,8 +46,8 @@ public class Kodiranje {
     public static void main(String[] args) throws Exception {
         // ce imam argumente, jih preberem in klicem deKodiranje()
         //args = new String[]{"XOR", "decode", "veckratniki.txt", "v.txt", "abc"};
-        String vsebina = BeriPisi.preberiDatoteko("src/Predavanja.predavanje06/io/veckratniki.txt");
-        BeriPisi.zapisiVDatoteko("src/Predavanja.predavanje06/kodiranje/v.txt", vsebina);
+        String vsebina = BeriPisi.preberiDatoteko("src/Predavanja/predavanje06/io/veckratniki.txt");
+        BeriPisi.zapisiVDatoteko("src/Predavanja/predavanje06/kodiranje/v.txt", vsebina);
 
         /******* TEST **********/
         String niz = "Kratko besedilo";

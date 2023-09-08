@@ -45,7 +45,7 @@ public class Drzave {
     }*/
 
     public static void main(String[] args) throws Exception {
-        TreeMap<String, Drzava> drzave = preberiDrzave("src/Predavanja.predavanje11/Fis/drzave.txt");
+        TreeMap<String, Drzava> drzave = preberiDrzave("src/Predavanja/predavanje11/Fis/drzave.txt");
 
         //izpis držav s sprehodom po zbirki objektov tipa Drzava (values())
         for(Drzava d: drzave.values()) {
