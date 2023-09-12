@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"type":"file","file":"P2/Vaje/Vaje 1 - For Zanka.md","id":"fb6e4ca05f93fb22","x":-720,"y":-40,"width":400,"height":400},
+		{"type":"file","file":"P2/Vaje/Vaje 4 - Besedle.md","id":"559250ceecd4c6cf","x":-720,"y":390,"width":400,"height":400},
+		{"id":"5a2de8e887044fbb","x":-300,"y":390,"width":400,"height":400,"type":"file","file":"P2/Vaje/Vaje 5 - Nakupovalni Seznam.md"},
+		{"type":"file","file":"P2/Vaje/Vaje 2  - Fakulteta.md","id":"aaa25950fa9fa19e","x":-300,"y":-40,"width":400,"height":400},
+		{"type":"file","file":"P2/Vaje/Vaje 3 - Pikčasti Znaki.md","id":"dcd33e91946cdf33","x":120,"y":-40,"width":400,"height":400},
+		{"id":"3ffa101ec315e71f","x":120,"y":390,"width":400,"height":400,"type":"file","file":"P2/Vaje/Vaje 6 - Igre na 15.md"},
+		{"id":"cf4830f45797e43e","x":-720,"y":820,"width":400,"height":400,"type":"file","file":"P2/Vaje/Vaje 7 - Telefonski Imenik.md"},
+		{"id":"b87db458aa5d1719","x":-300,"y":820,"width":400,"height":400,"type":"file","file":"P2/Vaje/Vaje 8 - Banka.md"},
+		{"id":"69b1d121cc2cff5a","x":120,"y":820,"width":400,"height":400,"type":"file","file":"P2/Vaje/Vaje 9 - Kodiranje.md"}
+	],
+	"edges":[]
+}
