@@ -12,4 +12,4 @@ Dve veliki domači nalogi. Konec marca (30.3) prva in bo odprta približno dva t
 
 >Odstevanje.java
 
-[Koda s predavanj]()
+[Koda s predavanj](https://github.com/GameExplorer/P2-Java/tree/master/src/Predavanja/predavanje01)
