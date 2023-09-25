@@ -4,6 +4,8 @@
 [[Predavanje 6 - Kodiranje Datotek]]
 
 ---
+[Koda s predavanj](https://github.com/GameExplorer/P2-Java/tree/master/src/Predavanja/predavanje05)
+
 
 http://lambda.fri.uni-lj.si/P2/kava/kavach4.html
 
