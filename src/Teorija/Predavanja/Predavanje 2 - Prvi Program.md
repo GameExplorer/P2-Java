@@ -11,7 +11,7 @@
 
 ---
 
-[Koda s predavanj](https://github.com/GameExplorer/javaPredavanja/tree/master/src/predavanje01)
+[Koda s predavanj](https://github.com/GameExplorer/P2-Java/tree/master/src/Predavanja/predavanje02)
 
 ```
 Zanimivosti: 
