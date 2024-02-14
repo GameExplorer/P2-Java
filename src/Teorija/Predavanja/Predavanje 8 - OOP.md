@@ -67,7 +67,6 @@ Vendar pozor:
 
 ### Set in Get
 
-
 - Metoda za spreminjanje vrednosti atributa ```X``` se imenuje ```setX()```
 
 - Metoda za dostop do atributa ```X``` se imenuje ```getX()``` (oz. ```ìsX()```, če je atribut tipa ```bolean```)
