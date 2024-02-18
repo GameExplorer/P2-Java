@@ -1,0 +1,12 @@
+11
+Miha, Novak, Ljubljana, 040 399 393, mobilni
+Maja, Ferk, Maribor, 040 339 393, mobilni
+Simona, Novak, Celje, 03 559 3933
+Tilen, Novak, Ljubljana, 031 366 939, mobilni
+Majda, Novak, Ljubljana, 01 325 2283
+Lada, Pečnik, Ljubljana, 041 366 939, mobilni
+Teo, Novak, Koper, 040 397 839, mobilni
+Jenny, Smith, London, +44 20 3022 4517
+Jonny, Walker, Dublin, +353 1 321 4567
+Margaret, Flower, Blackrock, +353 86 803 1243, mobilni
+Mici, Pečnik, Ljubljana, 01 479 2321

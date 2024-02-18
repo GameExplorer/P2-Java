@@ -1,0 +1,8 @@
+Merkur:2440
+Venera:6052
+Zemlja:6378
+Mars:3396
+Jupiter:71492
+Saturn:60268
+Uranu:25559
+Neptun:24764

@@ -1,0 +1,9 @@
+Ljubljana;SI
+Zagreb;HR
+Novo mesto;SI
+Kranj;SI
+Jesenice;SI
+Maribor;SI
+Split;HR
+Dunaj;AT
+Beljak;AT

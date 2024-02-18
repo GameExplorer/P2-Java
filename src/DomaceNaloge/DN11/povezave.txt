@@ -1,0 +1,11 @@
+RG715;Ljubljana;Maribor;2.24
+IC123;Ljubljana;Kranj;22;2.50
+IC124;Kranj;Jesenice;32;2.80
+RG812;Maribor;Zagreb;3.16
+IC312;Zagreb;Ljubljana;2.18;3
+IC125;Jesenice;Beljak;36;5.20
+EC55;Beljak;Dunaj;4.29;1.80
+RG1234;Dunaj;Maribor;3.42
+IC523;Zagreb;Split;6.21;6.30
+RG7959;Beljak;Kranj;1.03
+RG1122;Ljubljana;Novo mesto;1.34

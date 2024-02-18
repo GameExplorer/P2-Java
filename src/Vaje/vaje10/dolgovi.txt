@@ -1,0 +1,26 @@
+Ana Marija;Berta;5.00
+Ana Marija;Franci;3.15
+Ciril;Oliver mlajši;15.80
+Oliver mlajši;Janez;12.30
+Davor;Esmeralda;25
+Franci;Esmeralda;17.3
+Ana Marija;Kaja;5.3
+Hilda;Davor;1.20
+Ivo;Hilda;9.30
+Milan;Ciril;50
+Janez;Ciril;30
+Kaja;Esmeralda;12
+Kaja;10
+Oliver mlajši;Davor;4.80
+Oliver mlajši;Ivo;4.20
+Ciril;Hilda;22.5
+Kaja;Janez;11.50
+Kaja;Davor
+Ana Marija;Kaja;-9.3
+Nace Mihael;Ana Marija;8
+Nace Mihael;Leonardo;12
+Kaja;Ana Marija;1.7
+Nace Mihael;Ciril;5.8
+Marija Ana;Leonardo;9.20
+Leonardo;Nace Mihael;20.20
+Leonardo;Bine;3.0

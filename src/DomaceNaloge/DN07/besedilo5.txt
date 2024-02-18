@@ -1,0 +1,7 @@
+Java je objektno usmerjeni, prenosljivi programski jezik, ki ga je razvil James Gosling s sodelavci v podjetju Sun Microsystems. Projekt, ki se je v začetku (leta 1991) imenoval Oak (hrast), je bil razvit kot zamenjava za C++. Jave ne smemo zamenjevati z jezikom JavaScript, ki ima podobno ime, ter podobno, C-jevsko skladnjo. Različica Java 1.0 je bila objavljena leta 1996, zadnja različica je 11.0 (april 2019). Javo vzdržuje in posodablja Oracle - Sun Microsystems.
+
+Tolmač za javo je vgrajen v večino spletnih brskalnikov, s tem se javanski programčki (applet) lahko izvajajo kot del HTML dokumenta.
+
+Z javo se da programirati tudi aplikacije na mobilnih telefonih (J2ME) in pametnih telefonih z operacijskim sistemom Android.
+
+Javo lahko namestimo tudi na mikroprocesroje ARM in sicer po ne tako prijaznem postopku, ki ga lahko najdemo na spletni strani najdeni v poglavju Zunanje povezave 

@@ -1,0 +1,1 @@
+Napišite program, ki iz datoteke, podane v prvem argumentu ob klicu programa, prebere besedilo in ga izpiše v vrsticah z največ n (drugi argument) znakov.
